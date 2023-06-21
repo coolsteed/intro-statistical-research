@@ -1,0 +1,273 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+  ignorenonframetext,
+]{beamer}
+\usepackage{pgfpages}
+\setbeamertemplate{caption}[numbered]
+\setbeamertemplate{caption label separator}{: }
+\setbeamercolor{caption name}{fg=normal text.fg}
+\beamertemplatenavigationsymbolsempty
+% Prevent slide breaks in the middle of a paragraph
+\widowpenalties 1 10000
+\raggedbottom
+\setbeamertemplate{part page}{
+  \centering
+  \begin{beamercolorbox}[sep=16pt,center]{part title}
+    \usebeamerfont{part title}\insertpart\par
+  \end{beamercolorbox}
+}
+\setbeamertemplate{section page}{
+  \centering
+  \begin{beamercolorbox}[sep=12pt,center]{part title}
+    \usebeamerfont{section title}\insertsection\par
+  \end{beamercolorbox}
+}
+\setbeamertemplate{subsection page}{
+  \centering
+  \begin{beamercolorbox}[sep=8pt,center]{part title}
+    \usebeamerfont{subsection title}\insertsubsection\par
+  \end{beamercolorbox}
+}
+\AtBeginPart{
+  \frame{\partpage}
+}
+\AtBeginSection{
+  \ifbibliography
+  \else
+    \frame{\sectionpage}
+  \fi
+}
+\AtBeginSubsection{
+  \frame{\subsectionpage}
+}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+  \usepackage{amssymb}
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Workshop 3},
+  pdfauthor={Bolun},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\newif\ifbibliography
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{Workshop 3}
+\author{Bolun}
+\date{01/27/2021}
+
+\begin{document}
+\frame{\titlepage}
+
+\begin{frame}{Review}
+\protect\hypertarget{review}{}
+\begin{itemize}
+\item
+  Let me preach a little bit (again)
+\item
+  Population and sample
+\item
+  Statistic inference: from sample to population
+\item
+  Normal distribution
+\item
+  Before we enter into the discussion, let's review the codes in small
+  groups (and thank Zahra!).
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Importance of the randomness}
+\protect\hypertarget{importance-of-the-randomness}{}
+Group Discussion:
+
+\begin{itemize}
+\tightlist
+\item
+  Why randomness is important for inference?
+\item
+  What kind of normative principle lies behind it?
+\item
+  What if a sample is conentrate among certain group of people?
+\end{itemize}
+
+BTW: Beware! When people talk about inference/prediction, they might
+mean a lot of different things.
+\end{frame}
+
+\begin{frame}{Sampling Distribution 1}
+\protect\hypertarget{sampling-distribution-1}{}
+What is sampling distribution: The probability distribution of a given
+statistics (mean, sd etc.).
+
+Here using sampling distribution of the mean as an example.
+
+Imagine that you have a given population of 1000 people, each have a
+given value of asset. You randomly selected 100 from them, and calculate
+the mean of this sample. Then, you repeat this process for almost
+infinite time, the probability distribution you come up with in the end
+is a sampling distribution of the mean.
+\end{frame}
+
+\begin{frame}{Sampling Distribution 2}
+\protect\hypertarget{sampling-distribution-2}{}
+Let's simulating it in codes.
+\end{frame}
+
+\begin{frame}{Standard Error 1}
+\protect\hypertarget{standard-error-1}{}
+Standard error is the standard deviation of the sampling distribution.
+
+Mathematically you can derive that
+
+\[\sigma_{\bar{x}} =  \frac{\sigma}{\sqrt{n}}\]
+
+Where \(\sigma\) is the standard deviation of the population, and \(n\)
+is the size of the sample.
+
+In a lot of situation, if we know the kind of distribution the
+population belongs, we can infer the sampling distribution
+mathematically. In the case of mean estimate, the sampling distribution
+is a normal distribution.
+\end{frame}
+
+\begin{frame}{Standard Error 2}
+\protect\hypertarget{standard-error-2}{}
+But usually we do not know the standard deviation of the population as
+we did in the last simulation. Thus, we usually estimate the standard
+error using the standard deviation of the sample.
+
+\[\sigma_{\bar{x}} \approx \frac{s}{\sqrt{n}}\]
+
+or a old fashioned way
+
+\[\sigma_{\bar{x}} \approx \frac{s}{\sqrt{n-1}}\]
+\end{frame}
+
+\begin{frame}{Normal Distribution and Student Distribution}
+\protect\hypertarget{normal-distribution-and-student-distribution}{}
+Review: normal distribution and student distribution.
+
+Two different situations:
+
+\begin{enumerate}
+[1)]
+\item
+  When the sample size is large enough (n \textgreater{} 30), the
+  sampling distribution is also a normal distribution.
+\item
+  When our sample size is small, the standard error estimate is not
+  accurate enough. In this situation, we do not use the normal
+  distribution for the purpose of statistic inference. Instead, we use
+  student distribution.
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{Group Activities}
+\protect\hypertarget{group-activities}{}
+Group Activity: Changing the codes and modify the size of the sample to
+a small number, see how the distribution changed.
+\end{frame}
+
+\begin{frame}{Mean point estimate and confidential intervals 1}
+\protect\hypertarget{mean-point-estimate-and-confidential-intervals-1}{}
+Group Activity:
+
+\begin{itemize}
+\tightlist
+\item
+  Take a large n size sample from the population we generated
+  previously, using simulation to generate a distribution of (sample
+  mean - population mean).
+\item
+  Use normal distribution to calculate the 95\% confidential intervals
+  for the point estimate.
+\item
+  Compare the results
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Mean point estimate and confidential intervals 2}
+\protect\hypertarget{mean-point-estimate-and-confidential-intervals-2}{}
+Group Activity:
+
+\begin{itemize}
+\tightlist
+\item
+  Take a small n size sample from the population we generated
+  previously, using simulation to generate a distribution of (sample
+  mean - population mean).
+\item
+  Use student distribution to calculate the 95\% confidential intervals
+  for the point estimate.
+\item
+  Compare to previous result, what do you find?
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Ending: from estimation to hypothesis testing}
+\protect\hypertarget{ending-from-estimation-to-hypothesis-testing}{}
+\begin{itemize}
+\tightlist
+\item
+  Similar logic
+\item
+  Clarification about confidential intervals:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    ``A 95\% confidence level does not mean that for a given realized
+    interval there is a 95\% probability that the population parameter
+    lies within the interval (i.e., a 95\% probability that the interval
+    covers the population parameter).''
+  \item
+    It's about the difference between the estimate and the true
+    parameter.
+  \end{itemize}
+\item
+  The sampling distribution is set differently: based on sample VS based
+  on hypothesis
+\item
+  Central Limit Theorem.
+\end{itemize}
+\end{frame}
+
+\end{document}

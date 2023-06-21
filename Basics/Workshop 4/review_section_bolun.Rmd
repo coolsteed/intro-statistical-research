@@ -1,0 +1,149 @@
+---
+title: "Review Section"
+author: "Bolun Zhang, UCSD Sociology"
+date: "2/1/2021"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Outline
+
+Here we will go through the main points in descriptive statistics, sampling 
+distribution and also point estimator. 
+
+* Mean, standard deviation, median, mode, and range of your sample dataset.
+
+* Identify the lower quartile, upper quartile, and interquartile range of your 
+sample dataset.
+
+* Sampling Distribution and Point Estimates
+  + What is the estimated standard error of the sample mean?
+  + Using the t distribution table (from the textbook appendix or the lecture 
+notes), identify a 95% confidence interval for the population mean.
+
+## So, Let's imagine a scenario
+
+We are back in the 1000-population island
+
+```{r , echo = TRUE}
+set.seed(92037)
+pop_height <- rnorm(1000, mean = 1.7, sd = 0.15)
+pop_height <- round(pop_height, 2)
+sample_height <- sample(pop_height, 20)
+sample_height
+```
+
+## Mean
+
+We can calculate the mean by
+
+$$Mean = \sum{height}/20$$
+$$= (1.70 + 2.06 + 2.01 + 1.49...... + 1.61+1.43 +1.71 )/20$$
+
+## Mean
+
+The final result is 
+```{r, echo = FALSE}
+sample_mean <- mean(sample_height)
+print(sample_mean)
+```
+
+## Median
+
+We first arrange the 20 people according to their heights
+
+```{r, echo = FALSE}
+sort(sample_height)
+```
+
+The median is $$(1.64+1.69)/2 = 1.665$$
+```{r, echo = TRUE}
+median(sample_height)
+```
+
+## Mode
+
+So, what is the mode in this sample? 
+
+## The Range of the the sample
+
+```{r}
+print(paste("the minimum is", min(sample_height)))
+print(paste("the maximum is", max(sample_height)))
+```
+
+## Standard Deviation
+
+$$s = \sqrt{\frac{\sum(x_i-\bar{x})^2}{n}}$$
+In our case, it equals
+
+$$ s = \sqrt{\frac{(1.36-1.6815)^2 + (1.43-1.6815)^2...(2.06-1.6815)^2}{20}} $$
+
+## Standard Deviation
+
+The result is 
+
+```{r}
+div <- sample_height - sample_mean
+div2 <- div^2
+s <- (sum(div2)/20)^(0.5)
+print(paste("The standard deivation of the sample is",s))
+```
+
+If you tried:
+```{r, echo = TRUE}
+sd(sample_height)
+```
+
+Why are they different?
+
+## Quartile
+
+The lower quartile is $$(1.57+1.60)/2 = 1.585$$ and the upper quartile is $$(1.74+1.79)/2=1.765$$
+
+## You might wonder...if you tried
+
+Just want you know, quartile is actually a more complicated issue. If you compare the result from the textbook method and result from the code:
+
+```{r, echo = TRUE}
+quantile(sample_height)
+```
+
+For more, please refer to https://en.m.wikipedia.org/wiki/Quartile. R is using method 4 to calculate the quartile. 
+
+## Estimated Standard Error
+
+As a reminder, the old-fashioned formula to estimate standard error is
+
+$$\sigma_{\bar{x}} \approx \frac{s}{\sqrt{n}}$$
+
+Thus, we can calculate the standard error $\sigma = 0.183/\sqrt{20}$
+
+```{r}
+sigma <- s/(20)^(1/2)
+print(sigma)
+```
+
+## Student Distribution
+
+We simulate this in the last workshop. 
+
+$$t = \frac{\bar{X}-\mu_0}{s/\sqrt{n}}$$
+
+Thus you can understand why the confidence intervals are $\pm{T_{0.025}*SE}$. 
+
+Here the degree of freedom is $20-1 = 19$, we can find the t-score in the table.
+
+```{r}
+t <- dt(0.025, df = 19)
+dt(0.025, df = 19)
+```
+
+Thus the confidence intervals of the sample mean is $\pm{(0.394*0.183)}$
+
+
+
+

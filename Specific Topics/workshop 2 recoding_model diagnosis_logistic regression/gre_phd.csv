@@ -1,0 +1,1806 @@
+﻿Completion Code (1=completed PhD; 2=left without PhD),Time to Degree,Time to Leaving,Discipline,Gender Code (1=F; 2=M),GRE V,GRE Q
+1,6.00,,Engineering,1,330,780
+1,8.00,,Engineering,1,390,600
+1,6.00,,Engineering,1,500,730
+1,4.00,,Engineering,1,500,730
+1,6.00,,Engineering,1,510,800
+1,5.00,,Engineering,1,530,650
+1,6.00,,Engineering,1,540,790
+1,6.00,,Engineering,1,550,790
+1,7.00,,Engineering,1,570,680
+1,6.00,,Engineering,1,590,770
+1,7.00,,Engineering,1,600,720
+1,6.00,,Engineering,1,610,760
+1,7.00,,Engineering,1,680,760
+1,7.00,,Engineering,2,330,640
+1,6.00,,Engineering,2,380,790
+1,7.00,,Engineering,2,390,670
+1,6.00,,Engineering,2,450,610
+1,9.00,,Engineering,2,470,680
+1,8.00,,Engineering,2,470,750
+1,4.00,,Engineering,2,480,730
+1,5.00,,Engineering,2,490,760
+1,7.00,,Engineering,2,500,640
+1,6.00,,Engineering,2,500,710
+1,6.00,,Engineering,2,500,770
+1,7.00,,Engineering,2,500,800
+1,6.00,,Engineering,2,520,750
+1,5.00,,Engineering,2,530,730
+1,5.00,,Engineering,2,540,750
+1,5.00,,Engineering,2,550,710
+1,5.00,,Engineering,2,550,710
+1,7.00,,Engineering,2,550,750
+1,6.00,,Engineering,2,550,760
+1,6.00,,Engineering,2,550,770
+1,8.00,,Engineering,2,560,680
+1,7.00,,Engineering,2,560,750
+1,4.00,,Engineering,2,570,790
+1,7.00,,Engineering,2,570,790
+1,5.00,,Engineering,2,580,770
+1,7.00,,Engineering,2,580,770
+1,7.00,,Engineering,2,580,770
+1,8.00,,Engineering,2,600,720
+1,6.00,,Engineering,2,630,750
+1,6.00,,Engineering,2,630,770
+1,4.00,,Engineering,2,630,770
+1,4.00,,Engineering,2,720,800
+1,4.00,,Engineering,1,380,730
+1,8.00,,Engineering,1,440,560
+1,6.00,,Engineering,1,550,730
+1,9.00,,Engineering,1,610,720
+1,5.00,,Engineering,1,630,770
+1,6.00,,Engineering,2,410,650
+1,6.00,,Engineering,2,430,560
+1,6.00,,Engineering,2,460,770
+1,6.00,,Engineering,2,510,680
+1,6.00,,Engineering,2,530,690
+1,6.00,,Engineering,2,580,740
+1,6.00,,Engineering,2,600,660
+1,8.00,,Engineering,2,620,550
+1,5.00,,Engineering,2,630,680
+1,5.00,,Engineering,2,660,710
+1,5.00,,Engineering,1,350,800
+1,7.00,,Engineering,1,410,700
+1,3.00,,Engineering,1,500,750
+1,9.00,,Engineering,2,300,740
+1,5.00,,Engineering,2,410,800
+1,5.00,,Engineering,2,480,710
+1,5.00,,Engineering,2,480,780
+1,5.00,,Engineering,2,530,720
+1,4.00,,Engineering,1,630,710
+1,3.00,,Engineering,1,790,630
+1,6.00,,Engineering,2,680,790
+1,7.00,,Engineering,1,470,700
+1,7.00,,Engineering,1,580,760
+1,5.00,,Engineering,1,580,780
+1,8.00,,Engineering,1,620,740
+1,8.00,,Engineering,1,630,790
+1,5.00,,Engineering,1,670,800
+1,8.00,,Engineering,2,440,790
+1,8.00,,Engineering,2,440,790
+1,5.00,,Engineering,2,450,730
+1,4.00,,Engineering,2,460,750
+1,6.00,,Engineering,2,480,620
+1,6.00,,Engineering,2,480,620
+1,7.00,,Engineering,2,510,750
+1,8.00,,Engineering,2,540,760
+1,5.00,,Engineering,2,560,780
+1,8.00,,Engineering,2,570,800
+1,3.00,,Engineering,2,620,790
+1,2.00,,Engineering,2,640,750
+1,7.00,,Engineering,1,240,750
+1,6.00,,Engineering,1,310,550
+1,13.00,,Engineering,1,330,720
+1,5.00,,Engineering,1,370,590
+1,7.00,,Engineering,1,380,660
+1,8.00,,Engineering,1,450,740
+1,8.00,,Engineering,1,460,700
+1,5.00,,Engineering,1,470,660
+1,7.00,,Engineering,1,470,710
+1,5.00,,Engineering,1,480,690
+1,5.00,,Engineering,1,490,740
+1,6.00,,Engineering,1,500,610
+1,6.00,,Engineering,1,500,650
+1,5.00,,Engineering,1,510,730
+1,6.00,,Engineering,1,510,800
+1,5.00,,Engineering,1,530,710
+1,6.00,,Engineering,1,530,750
+1,6.00,,Engineering,1,540,680
+1,5.00,,Engineering,1,560,770
+1,5.00,,Engineering,1,570,800
+1,6.00,,Engineering,1,580,670
+1,6.00,,Engineering,1,580,740
+1,5.00,,Engineering,1,590,770
+1,10.00,,Engineering,1,590,780
+1,4.00,,Engineering,1,600,620
+1,10.00,,Engineering,1,610,710
+1,5.00,,Engineering,1,610,790
+1,5.00,,Engineering,1,620,770
+1,6.00,,Engineering,1,660,770
+1,6.00,,Engineering,2,280,740
+1,9.00,,Engineering,2,290,610
+1,4.00,,Engineering,2,290,710
+1,9.00,,Engineering,2,320,540
+1,7.00,,Engineering,2,370,780
+1,5.00,,Engineering,2,390,740
+1,5.00,,Engineering,2,400,710
+1,5.00,,Engineering,2,400,710
+1,5.00,,Engineering,2,400,730
+1,3.00,,Engineering,2,420,600
+1,5.00,,Engineering,2,420,630
+1,5.00,,Engineering,2,420,640
+1,7.00,,Engineering,2,430,600
+1,5.00,,Engineering,2,430,620
+1,3.00,,Engineering,2,430,750
+1,5.00,,Engineering,2,440,680
+1,5.00,,Engineering,2,450,760
+1,7.00,,Engineering,2,460,640
+1,5.00,,Engineering,2,460,680
+1,6.00,,Engineering,2,460,700
+1,5.00,,Engineering,2,470,680
+1,5.00,,Engineering,2,470,760
+1,4.00,,Engineering,2,470,770
+1,6.00,,Engineering,2,470,800
+1,6.00,,Engineering,2,480,690
+1,7.00,,Engineering,2,480,710
+1,6.00,,Engineering,2,480,730
+1,5.00,,Engineering,2,480,730
+1,5.00,,Engineering,2,490,630
+1,4.00,,Engineering,2,490,750
+1,8.00,,Engineering,2,500,640
+1,7.00,,Engineering,2,500,740
+1,2.00,,Engineering,2,500,750
+1,6.00,,Engineering,2,500,770
+1,4.00,,Engineering,2,510,710
+1,6.00,,Engineering,2,510,730
+1,4.00,,Engineering,2,510,750
+1,4.00,,Engineering,2,520,650
+1,6.00,,Engineering,2,520,720
+1,3.00,,Engineering,2,530,730
+1,6.00,,Engineering,2,530,800
+1,8.00,,Engineering,2,540,680
+1,7.00,,Engineering,2,540,700
+1,6.00,,Engineering,2,540,720
+1,5.00,,Engineering,2,540,740
+1,6.00,,Engineering,2,550,610
+1,6.00,,Engineering,2,550,750
+1,6.00,,Engineering,2,550,750
+1,3.00,,Engineering,2,550,790
+1,4.00,,Engineering,2,550,800
+1,5.00,,Engineering,2,560,700
+1,5.00,,Engineering,2,560,730
+1,6.00,,Engineering,2,570,610
+1,6.00,,Engineering,2,570,730
+1,5.00,,Engineering,2,570,740
+1,5.00,,Engineering,2,570,750
+1,4.00,,Engineering,2,570,750
+1,5.00,,Engineering,2,580,770
+1,6.00,,Engineering,2,590,710
+1,5.00,,Engineering,2,590,780
+1,5.00,,Engineering,2,590,800
+1,6.00,,Engineering,2,600,800
+1,7.00,,Engineering,2,620,750
+1,5.00,,Engineering,2,630,800
+1,6.00,,Engineering,2,650,730
+1,4.00,,Engineering,2,660,800
+1,4.00,,Engineering,2,680,660
+1,5.00,,Engineering,2,680,720
+1,7.00,,Engineering,2,680,780
+1,7.00,,Engineering,2,700,760
+1,6.00,,Engineering,2,710,780
+1,2.00,,Engineering,2,710,800
+1,7.00,,Engineering,2,720,790
+1,7.00,,Engineering,1,680,800
+1,10.00,,Engineering,2,250,650
+1,8.00,,Engineering,2,330,770
+1,5.00,,Engineering,1,350,590
+1,4.00,,Engineering,1,470,730
+1,4.00,,Engineering,1,490,770
+1,5.00,,Engineering,1,500,710
+1,4.00,,Engineering,1,510,690
+1,7.00,,Engineering,1,600,730
+1,4.00,,Engineering,1,610,780
+1,4.00,,Engineering,1,610,780
+1,3.00,,Engineering,1,630,750
+1,4.00,,Engineering,2,370,670
+1,5.00,,Engineering,2,370,740
+1,4.00,,Engineering,2,460,690
+1,6.00,,Engineering,2,480,770
+1,4.00,,Engineering,2,500,800
+1,3.00,,Engineering,2,530,780
+1,7.00,,Engineering,2,550,690
+1,5.00,,Engineering,2,560,740
+1,6.00,,Engineering,2,590,660
+1,5.00,,Engineering,2,590,800
+1,5.00,,Engineering,2,600,770
+1,5.00,,Engineering,2,610,790
+1,5.00,,Engineering,2,610,800
+1,5.00,,Engineering,2,620,710
+1,4.00,,Engineering,2,620,740
+1,6.00,,Engineering,2,650,760
+1,4.00,,Engineering,2,780,800
+1,6.00,,Engineering,1,530,760
+1,6.00,,Engineering,1,660,760
+1,6.00,,Engineering,2,370,700
+1,6.00,,Engineering,2,410,690
+1,6.00,,Engineering,2,410,690
+1,8.00,,Engineering,2,450,680
+1,10.00,,Engineering,2,470,800
+1,11.00,,Engineering,2,480,640
+1,5.00,,Engineering,2,530,800
+1,6.00,,Engineering,2,560,750
+1,2.00,,Engineering,2,270,390
+1,6.00,,Engineering,2,490,630
+1,3.00,,Engineering,2,530,700
+1,4.00,,Engineering,2,620,710
+1,6.00,,Engineering,2,330,730
+1,11.00,,Engineering,2,460,640
+1,4.00,,Engineering,2,570,690
+1,5.00,,Engineering,2,610,780
+1,6.00,,Non-Engineering,1,490,620
+1,6.00,,Non-Engineering,1,550,630
+1,5.00,,Non-Engineering,1,560,580
+1,5.00,,Non-Engineering,1,560,730
+1,7.00,,Non-Engineering,1,620,580
+1,6.00,,Non-Engineering,2,300,710
+1,5.00,,Non-Engineering,2,440,640
+1,6.00,,Non-Engineering,2,510,520
+1,5.00,,Non-Engineering,2,710,790
+1,5.00,,Non-Engineering,1,340,290
+1,3.00,,Non-Engineering,1,490,570
+1,4.00,,Non-Engineering,1,570,530
+1,7.00,,Non-Engineering,1,650,500
+1,7.00,,Non-Engineering,2,420,620
+1,3.00,,Non-Engineering,2,520,580
+1,3.00,,Non-Engineering,2,450,780
+1,3.00,,Non-Engineering,2,590,760
+1,4.00,,Non-Engineering,1,450,680
+1,6.00,,Non-Engineering,1,470,690
+1,7.00,,Non-Engineering,1,500,640
+1,6.00,,Non-Engineering,1,580,790
+1,5.00,,Non-Engineering,1,410,640
+1,6.00,,Non-Engineering,1,430,720
+1,7.00,,Non-Engineering,1,560,650
+1,7.00,,Non-Engineering,2,340,570
+1,7.00,,Non-Engineering,2,340,570
+1,6.00,,Non-Engineering,2,440,730
+1,5.00,,Non-Engineering,2,480,710
+1,5.00,,Non-Engineering,2,480,710
+1,8.00,,Non-Engineering,2,490,700
+1,5.00,,Non-Engineering,2,510,550
+1,5.00,,Non-Engineering,2,510,550
+1,5.00,,Non-Engineering,2,540,690
+1,7.00,,Non-Engineering,2,600,790
+1,6.00,,Non-Engineering,2,320,550
+1,5.00,,Non-Engineering,2,450,610
+1,5.00,,Non-Engineering,2,460,730
+1,5.00,,Non-Engineering,2,470,620
+1,6.00,,Non-Engineering,2,480,670
+1,4.00,,Non-Engineering,2,570,620
+1,6.00,,Non-Engineering,2,610,620
+1,6.00,,Non-Engineering,2,640,800
+1,5.00,,Non-Engineering,2,690,630
+1,4.00,,Non-Engineering,1,540,660
+1,6.00,,Non-Engineering,1,640,630
+1,4.00,,Non-Engineering,2,480,540
+1,5.00,,Non-Engineering,2,480,720
+1,8.00,,Non-Engineering,2,500,560
+1,4.00,,Non-Engineering,2,550,690
+1,6.00,,Non-Engineering,2,550,750
+1,7.00,,Non-Engineering,2,640,700
+1,5.00,,Non-Engineering,1,270,360
+1,8.00,,Non-Engineering,1,290,540
+1,4.00,,Non-Engineering,1,310,660
+1,3.00,,Non-Engineering,1,320,600
+1,6.00,,Non-Engineering,1,330,450
+1,5.00,,Non-Engineering,1,350,640
+1,5.00,,Non-Engineering,1,410,470
+1,6.00,,Non-Engineering,1,410,520
+1,8.00,,Non-Engineering,1,430,550
+1,6.00,,Non-Engineering,1,430,590
+1,8.00,,Non-Engineering,1,430,750
+1,7.00,,Non-Engineering,1,440,650
+1,6.00,,Non-Engineering,1,450,470
+1,7.00,,Non-Engineering,1,450,640
+1,7.00,,Non-Engineering,1,450,650
+1,7.00,,Non-Engineering,1,460,430
+1,5.00,,Non-Engineering,1,460,580
+1,5.00,,Non-Engineering,1,460,660
+1,3.00,,Non-Engineering,1,470,570
+1,5.00,,Non-Engineering,1,470,660
+1,4.00,,Non-Engineering,1,480,580
+1,5.00,,Non-Engineering,1,480,590
+1,6.00,,Non-Engineering,1,480,590
+1,6.00,,Non-Engineering,1,480,610
+1,6.00,,Non-Engineering,1,480,610
+1,5.00,,Non-Engineering,1,490,570
+1,7.00,,Non-Engineering,1,500,650
+1,6.00,,Non-Engineering,1,500,730
+1,5.00,,Non-Engineering,1,500,760
+1,3.00,,Non-Engineering,1,510,470
+1,8.00,,Non-Engineering,1,510,630
+1,6.00,,Non-Engineering,1,510,650
+1,5.00,,Non-Engineering,1,510,650
+1,5.00,,Non-Engineering,1,510,680
+1,7.00,,Non-Engineering,1,520,590
+1,10.00,,Non-Engineering,1,520,590
+1,8.00,,Non-Engineering,1,530,570
+1,6.00,,Non-Engineering,1,530,630
+1,6.00,,Non-Engineering,1,540,530
+1,6.00,,Non-Engineering,1,540,560
+1,12.00,,Non-Engineering,1,540,580
+1,4.00,,Non-Engineering,1,540,610
+1,6.00,,Non-Engineering,1,540,650
+1,6.00,,Non-Engineering,1,540,700
+1,5.00,,Non-Engineering,1,540,730
+1,4.00,,Non-Engineering,1,550,440
+1,4.00,,Non-Engineering,1,550,690
+1,5.00,,Non-Engineering,1,560,520
+1,7.00,,Non-Engineering,1,560,570
+1,6.00,,Non-Engineering,1,560,570
+1,5.00,,Non-Engineering,1,560,600
+1,5.00,,Non-Engineering,1,560,630
+1,6.00,,Non-Engineering,1,560,640
+1,9.00,,Non-Engineering,1,570,510
+1,7.00,,Non-Engineering,1,570,530
+1,7.00,,Non-Engineering,1,570,590
+1,5.00,,Non-Engineering,1,570,640
+1,5.00,,Non-Engineering,1,570,740
+1,5.00,,Non-Engineering,1,570,790
+1,8.00,,Non-Engineering,1,580,580
+1,5.00,,Non-Engineering,1,580,590
+1,6.00,,Non-Engineering,1,580,670
+1,5.00,,Non-Engineering,1,580,730
+1,8.00,,Non-Engineering,1,590,590
+1,8.00,,Non-Engineering,1,590,760
+1,7.00,,Non-Engineering,1,600,600
+1,8.00,,Non-Engineering,1,600,680
+1,4.00,,Non-Engineering,1,600,680
+1,6.00,,Non-Engineering,1,600,720
+1,7.00,,Non-Engineering,1,610,600
+1,7.00,,Non-Engineering,1,610,720
+1,6.00,,Non-Engineering,1,610,760
+1,7.00,,Non-Engineering,1,620,590
+1,6.00,,Non-Engineering,1,620,690
+1,7.00,,Non-Engineering,1,620,800
+1,5.00,,Non-Engineering,1,630,680
+1,6.00,,Non-Engineering,1,630,710
+1,6.00,,Non-Engineering,1,640,540
+1,5.00,,Non-Engineering,1,640,630
+1,5.00,,Non-Engineering,1,650,670
+1,6.00,,Non-Engineering,1,650,690
+1,5.00,,Non-Engineering,1,650,730
+1,9.00,,Non-Engineering,1,660,660
+1,5.00,,Non-Engineering,1,660,790
+1,6.00,,Non-Engineering,1,670,580
+1,5.00,,Non-Engineering,1,680,590
+1,4.00,,Non-Engineering,1,680,630
+1,4.00,,Non-Engineering,1,690,750
+1,5.00,,Non-Engineering,1,710,690
+1,7.00,,Non-Engineering,1,720,510
+1,6.00,,Non-Engineering,1,800,750
+1,2.00,,Non-Engineering,2,290,610
+1,6.00,,Non-Engineering,2,320,590
+1,5.00,,Non-Engineering,2,320,600
+1,5.00,,Non-Engineering,2,320,780
+1,3.00,,Non-Engineering,2,330,520
+1,7.00,,Non-Engineering,2,330,570
+1,3.00,,Non-Engineering,2,330,570
+1,5.00,,Non-Engineering,2,330,760
+1,7.00,,Non-Engineering,2,340,680
+1,6.00,,Non-Engineering,2,350,610
+1,6.00,,Non-Engineering,2,350,800
+1,6.00,,Non-Engineering,2,370,540
+1,5.00,,Non-Engineering,2,370,640
+1,4.00,,Non-Engineering,2,390,530
+1,6.00,,Non-Engineering,2,400,650
+1,5.00,,Non-Engineering,2,400,720
+1,4.00,,Non-Engineering,2,430,620
+1,6.00,,Non-Engineering,2,430,650
+1,5.00,,Non-Engineering,2,430,660
+1,6.00,,Non-Engineering,2,430,670
+1,6.00,,Non-Engineering,2,460,650
+1,3.00,,Non-Engineering,2,470,620
+1,6.00,,Non-Engineering,2,480,600
+1,6.00,,Non-Engineering,2,480,640
+1,4.00,,Non-Engineering,2,490,540
+1,7.00,,Non-Engineering,2,490,600
+1,6.00,,Non-Engineering,2,490,640
+1,6.00,,Non-Engineering,2,490,710
+1,4.00,,Non-Engineering,2,500,590
+1,5.00,,Non-Engineering,2,500,640
+1,6.00,,Non-Engineering,2,500,650
+1,7.00,,Non-Engineering,2,500,720
+1,5.00,,Non-Engineering,2,500,750
+1,6.00,,Non-Engineering,2,510,520
+1,4.00,,Non-Engineering,2,510,550
+1,6.00,,Non-Engineering,2,510,640
+1,9.00,,Non-Engineering,2,510,680
+1,8.00,,Non-Engineering,2,520,700
+1,6.00,,Non-Engineering,2,520,710
+1,5.00,,Non-Engineering,2,520,730
+1,10.00,,Non-Engineering,2,520,750
+1,4.00,,Non-Engineering,2,530,570
+1,6.00,,Non-Engineering,2,530,600
+1,4.00,,Non-Engineering,2,530,620
+1,4.00,,Non-Engineering,2,530,630
+1,7.00,,Non-Engineering,2,530,660
+1,4.00,,Non-Engineering,2,530,670
+1,8.00,,Non-Engineering,2,530,690
+1,5.00,,Non-Engineering,2,530,730
+1,6.00,,Non-Engineering,2,530,730
+1,5.00,,Non-Engineering,2,540,610
+1,3.00,,Non-Engineering,2,540,660
+1,8.00,,Non-Engineering,2,540,780
+1,6.00,,Non-Engineering,2,550,500
+1,5.00,,Non-Engineering,2,550,550
+1,6.00,,Non-Engineering,2,550,640
+1,5.00,,Non-Engineering,2,550,670
+1,5.00,,Non-Engineering,2,550,790
+1,7.00,,Non-Engineering,2,560,620
+1,5.00,,Non-Engineering,2,560,640
+1,5.00,,Non-Engineering,2,560,710
+1,6.00,,Non-Engineering,2,570,670
+1,6.00,,Non-Engineering,2,570,700
+1,5.00,,Non-Engineering,2,580,720
+1,5.00,,Non-Engineering,2,600,580
+1,5.00,,Non-Engineering,2,600,700
+1,3.00,,Non-Engineering,2,600,800
+1,7.00,,Non-Engineering,2,610,710
+1,5.00,,Non-Engineering,2,620,760
+1,4.00,,Non-Engineering,2,630,660
+1,5.00,,Non-Engineering,2,630,670
+1,8.00,,Non-Engineering,2,640,640
+1,12.00,,Non-Engineering,2,650,510
+1,7.00,,Non-Engineering,2,650,670
+1,7.00,,Non-Engineering,2,660,610
+1,6.00,,Non-Engineering,2,660,770
+1,8.00,,Non-Engineering,2,670,610
+1,7.00,,Non-Engineering,2,670,630
+1,7.00,,Non-Engineering,2,670,780
+1,10.00,,Non-Engineering,2,680,600
+1,6.00,,Non-Engineering,2,700,670
+1,8.00,,Non-Engineering,2,760,770
+1,5.00,,Non-Engineering,2,790,730
+1,6.00,,Non-Engineering,1,530,550
+1,6.00,,Non-Engineering,1,570,730
+1,6.00,,Non-Engineering,2,480,570
+1,5.00,,Non-Engineering,2,570,740
+1,9.00,,Non-Engineering,1,530,630
+1,2.00,,Non-Engineering,1,660,590
+1,4.00,,Non-Engineering,2,530,660
+1,6.00,,Non-Engineering,1,300,780
+1,8.00,,Non-Engineering,1,500,640
+1,5.00,,Non-Engineering,1,520,780
+1,4.00,,Non-Engineering,1,550,700
+1,4.00,,Non-Engineering,1,580,670
+1,5.00,,Non-Engineering,1,640,660
+1,7.00,,Non-Engineering,1,670,690
+1,6.00,,Non-Engineering,2,340,570
+1,8.00,,Non-Engineering,2,350,710
+1,6.00,,Non-Engineering,2,390,540
+1,4.00,,Non-Engineering,2,440,650
+1,6.00,,Non-Engineering,2,450,760
+1,6.00,,Non-Engineering,2,470,700
+1,5.00,,Non-Engineering,2,500,650
+1,4.00,,Non-Engineering,2,540,720
+1,5.00,,Non-Engineering,2,550,720
+1,6.00,,Non-Engineering,2,590,660
+1,7.00,,Non-Engineering,2,770,740
+1,6.00,,Non-Engineering,1,440,550
+1,5.00,,Non-Engineering,1,460,540
+1,6.00,,Non-Engineering,1,480,630
+1,6.00,,Non-Engineering,1,480,770
+1,6.00,,Non-Engineering,1,520,590
+1,6.00,,Non-Engineering,1,540,640
+1,4.00,,Non-Engineering,1,550,620
+1,5.00,,Non-Engineering,2,410,620
+1,6.00,,Non-Engineering,2,420,710
+1,10.00,,Non-Engineering,2,480,530
+1,5.00,,Non-Engineering,2,520,670
+1,6.00,,Non-Engineering,2,550,730
+1,3.00,,Non-Engineering,2,570,730
+1,5.00,,Non-Engineering,2,570,740
+1,5.00,,Non-Engineering,2,640,680
+1,6.00,,Non-Engineering,1,360,800
+1,6.00,,Non-Engineering,1,470,540
+1,5.00,,Non-Engineering,1,470,690
+1,6.00,,Non-Engineering,1,580,800
+1,4.00,,Non-Engineering,2,320,620
+1,5.00,,Non-Engineering,1,280,530
+1,5.00,,Non-Engineering,1,320,770
+1,5.00,,Non-Engineering,1,400,660
+1,5.00,,Non-Engineering,1,470,710
+1,6.00,,Non-Engineering,1,540,650
+1,6.00,,Non-Engineering,1,600,600
+1,5.00,,Non-Engineering,1,650,780
+1,6.00,,Non-Engineering,1,680,710
+1,5.00,,Non-Engineering,1,690,730
+1,5.00,,Non-Engineering,1,440,710
+1,6.00,,Non-Engineering,1,480,550
+1,6.00,,Non-Engineering,2,400,620
+1,6.00,,Non-Engineering,2,410,740
+1,5.00,,Non-Engineering,2,420,560
+1,5.00,,Non-Engineering,2,420,660
+1,5.00,,Non-Engineering,2,420,720
+1,5.00,,Non-Engineering,2,540,650
+1,6.00,,Non-Engineering,2,540,680
+1,6.00,,Non-Engineering,2,550,710
+1,5.00,,Non-Engineering,2,590,620
+1,6.00,,Non-Engineering,2,610,770
+1,6.00,,Non-Engineering,2,650,730
+1,8.00,,Non-Engineering,2,690,760
+1,6.00,,Non-Engineering,2,300,640
+1,7.00,,Non-Engineering,2,420,540
+1,5.00,,Non-Engineering,2,420,620
+1,5.00,,Non-Engineering,2,440,590
+1,6.00,,Non-Engineering,2,490,750
+1,5.00,,Non-Engineering,2,510,770
+1,5.00,,Non-Engineering,2,560,580
+1,7.00,,Non-Engineering,2,570,720
+1,6.00,,Non-Engineering,2,580,720
+1,6.00,,Non-Engineering,2,630,610
+1,7.00,,Non-Engineering,1,320,700
+1,8.00,,Non-Engineering,1,380,690
+1,6.00,,Non-Engineering,1,390,710
+1,7.00,,Non-Engineering,1,390,720
+1,9.00,,Non-Engineering,1,430,590
+1,4.00,,Non-Engineering,1,440,620
+1,3.00,,Non-Engineering,1,460,620
+1,8.00,,Non-Engineering,1,480,680
+1,6.00,,Non-Engineering,1,500,540
+1,7.00,,Non-Engineering,1,500,760
+1,5.00,,Non-Engineering,1,530,710
+1,4.00,,Non-Engineering,1,530,740
+1,4.00,,Non-Engineering,1,530,760
+1,6.00,,Non-Engineering,1,560,800
+1,6.00,,Non-Engineering,1,610,750
+1,4.00,,Non-Engineering,1,610,780
+1,4.00,,Non-Engineering,1,610,780
+1,5.00,,Non-Engineering,1,640,570
+1,5.00,,Non-Engineering,1,650,730
+1,6.00,,Non-Engineering,1,650,770
+1,4.00,,Non-Engineering,2,370,740
+1,5.00,,Non-Engineering,2,380,670
+1,4.00,,Non-Engineering,2,440,690
+1,7.00,,Non-Engineering,2,450,680
+1,6.00,,Non-Engineering,2,480,760
+1,5.00,,Non-Engineering,2,490,640
+1,6.00,,Non-Engineering,2,500,740
+1,7.00,,Non-Engineering,2,510,800
+1,6.00,,Non-Engineering,2,530,770
+1,5.00,,Non-Engineering,2,540,590
+1,8.00,,Non-Engineering,2,550,800
+1,6.00,,Non-Engineering,2,560,660
+1,5.00,,Non-Engineering,2,560,750
+1,5.00,,Non-Engineering,2,610,660
+1,7.00,,Non-Engineering,2,630,680
+1,4.00,,Non-Engineering,2,340,660
+1,5.00,,Non-Engineering,2,480,650
+1,6.00,,Non-Engineering,2,480,740
+1,5.00,,Non-Engineering,2,570,680
+1,5.00,,Non-Engineering,2,580,530
+1,8.00,,Non-Engineering,1,480,720
+1,6.00,,Non-Engineering,1,520,730
+1,2.00,,Non-Engineering,1,530,760
+1,6.00,,Non-Engineering,1,660,800
+1,7.00,,Non-Engineering,2,510,780
+1,4.00,,Non-Engineering,2,640,750
+1,4.00,,Non-Engineering,2,700,800
+1,8.00,,Non-Engineering,2,440,650
+1,6.00,,Non-Engineering,2,530,780
+1,8.00,,Non-Engineering,2,570,710
+1,2.00,,Non-Engineering,2,710,780
+1,4.00,,Non-Engineering,1,350,800
+1,4.00,,Non-Engineering,1,420,720
+1,4.00,,Non-Engineering,1,470,700
+1,8.00,,Non-Engineering,1,680,800
+1,6.00,,Non-Engineering,2,340,800
+1,2.00,,Non-Engineering,2,470,800
+1,5.00,,Non-Engineering,2,540,770
+1,11.00,,Non-Engineering,2,600,730
+1,7.00,,Non-Engineering,2,610,770
+1,9.00,,Non-Engineering,2,620,740
+1,3.00,,Non-Engineering,2,650,790
+1,8.00,,Non-Engineering,2,660,710
+1,5.00,,Non-Engineering,2,700,790
+1,12.00,,Non-Engineering,2,710,630
+1,6.00,,Non-Engineering,2,710,760
+1,7.00,,Non-Engineering,2,790,800
+1,7.00,,Non-Engineering,1,480,780
+1,6.00,,Non-Engineering,1,540,720
+1,7.00,,Non-Engineering,1,550,700
+1,6.00,,Non-Engineering,1,610,730
+1,6.00,,Non-Engineering,1,630,800
+1,8.00,,Non-Engineering,1,640,640
+1,5.00,,Non-Engineering,1,660,720
+1,6.00,,Non-Engineering,1,680,800
+1,7.00,,Non-Engineering,1,720,760
+1,9.00,,Non-Engineering,1,720,800
+1,7.00,,Non-Engineering,2,420,590
+1,5.00,,Non-Engineering,2,440,790
+1,7.00,,Non-Engineering,2,490,780
+1,9.00,,Non-Engineering,2,530,750
+1,11.00,,Non-Engineering,2,540,750
+1,7.00,,Non-Engineering,2,540,770
+1,5.00,,Non-Engineering,2,540,770
+1,7.00,,Non-Engineering,2,560,800
+1,9.00,,Non-Engineering,2,560,800
+1,10.00,,Non-Engineering,2,570,710
+1,9.00,,Non-Engineering,2,570,780
+1,8.00,,Non-Engineering,2,590,800
+1,6.00,,Non-Engineering,2,590,800
+1,7.00,,Non-Engineering,2,610,740
+1,7.00,,Non-Engineering,2,610,750
+1,8.00,,Non-Engineering,2,610,790
+1,6.00,,Non-Engineering,2,610,800
+1,10.00,,Non-Engineering,2,630,720
+1,8.00,,Non-Engineering,2,640,770
+1,6.00,,Non-Engineering,2,640,800
+1,9.00,,Non-Engineering,2,640,800
+1,4.00,,Non-Engineering,2,650,800
+1,5.00,,Non-Engineering,2,650,800
+1,6.00,,Non-Engineering,2,660,740
+1,11.00,,Non-Engineering,2,660,800
+1,10.00,,Non-Engineering,2,660,800
+1,5.00,,Non-Engineering,2,670,770
+1,7.00,,Non-Engineering,2,690,800
+1,12.00,,Non-Engineering,2,700,760
+1,8.00,,Non-Engineering,2,700,800
+1,10.00,,Non-Engineering,2,710,790
+1,7.00,,Non-Engineering,2,710,800
+1,6.00,,Non-Engineering,2,720,680
+1,6.00,,Non-Engineering,2,720,790
+1,9.00,,Non-Engineering,2,720,800
+1,11.00,,Non-Engineering,2,730,760
+1,7.00,,Non-Engineering,2,730,770
+1,3.00,,Non-Engineering,2,760,800
+1,6.00,,Non-Engineering,2,770,760
+1,6.00,,Non-Engineering,2,770,780
+1,6.00,,Non-Engineering,2,790,790
+1,7.00,,Non-Engineering,1,470,570
+1,9.00,,Non-Engineering,1,490,510
+1,6.00,,Non-Engineering,1,510,460
+1,4.00,,Non-Engineering,1,530,580
+1,9.00,,Non-Engineering,1,580,750
+1,5.00,,Non-Engineering,1,650,730
+1,7.00,,Non-Engineering,2,410,370
+1,5.00,,Non-Engineering,2,430,600
+1,5.00,,Non-Engineering,2,460,530
+1,4.00,,Non-Engineering,2,460,700
+1,6.00,,Non-Engineering,2,480,570
+1,7.00,,Non-Engineering,2,500,430
+1,6.00,,Non-Engineering,2,520,550
+1,4.00,,Non-Engineering,2,520,710
+1,5.00,,Non-Engineering,2,540,700
+1,8.00,,Non-Engineering,2,540,700
+1,5.00,,Non-Engineering,2,540,710
+1,5.00,,Non-Engineering,2,550,590
+1,10.00,,Non-Engineering,2,560,430
+1,6.00,,Non-Engineering,2,560,590
+1,5.00,,Non-Engineering,2,600,650
+1,6.00,,Non-Engineering,2,660,460
+1,3.00,,Non-Engineering,1,360,600
+1,7.00,,Non-Engineering,1,460,690
+1,8.00,,Non-Engineering,1,480,630
+1,6.00,,Non-Engineering,1,500,550
+1,6.00,,Non-Engineering,1,510,680
+1,7.00,,Non-Engineering,1,520,650
+1,6.00,,Non-Engineering,1,530,750
+1,7.00,,Non-Engineering,1,550,610
+1,6.00,,Non-Engineering,1,550,610
+1,5.00,,Non-Engineering,1,550,610
+1,5.00,,Non-Engineering,1,550,670
+1,7.00,,Non-Engineering,1,570,570
+1,7.00,,Non-Engineering,1,600,680
+1,5.00,,Non-Engineering,1,620,650
+1,8.00,,Non-Engineering,1,630,680
+1,8.00,,Non-Engineering,1,630,780
+1,6.00,,Non-Engineering,1,670,650
+1,6.00,,Non-Engineering,1,670,660
+1,9.00,,Non-Engineering,1,700,640
+1,7.00,,Non-Engineering,1,700,800
+1,6.00,,Non-Engineering,1,720,760
+1,8.00,,Non-Engineering,1,740,780
+1,6.00,,Non-Engineering,2,440,730
+1,10.00,,Non-Engineering,2,470,760
+1,5.00,,Non-Engineering,2,480,660
+1,11.00,,Non-Engineering,2,510,420
+1,3.00,,Non-Engineering,2,510,600
+1,5.00,,Non-Engineering,2,520,690
+1,6.00,,Non-Engineering,2,540,640
+1,6.00,,Non-Engineering,2,540,670
+1,5.00,,Non-Engineering,2,540,690
+1,6.00,,Non-Engineering,2,540,710
+1,4.00,,Non-Engineering,2,570,580
+1,6.00,,Non-Engineering,2,570,720
+1,7.00,,Non-Engineering,2,590,650
+1,4.00,,Non-Engineering,2,590,680
+1,5.00,,Non-Engineering,2,590,760
+1,4.00,,Non-Engineering,2,600,720
+1,7.00,,Non-Engineering,2,610,650
+1,5.00,,Non-Engineering,2,620,700
+1,6.00,,Non-Engineering,2,620,790
+1,10.00,,Non-Engineering,2,630,620
+1,13.00,,Non-Engineering,2,630,650
+1,13.00,,Non-Engineering,2,630,650
+1,5.00,,Non-Engineering,2,640,670
+1,7.00,,Non-Engineering,2,650,780
+1,5.00,,Non-Engineering,2,680,700
+1,11.00,,Non-Engineering,2,790,690
+1,5.00,,Non-Engineering,1,450,670
+1,5.00,,Non-Engineering,1,460,640
+1,8.00,,Non-Engineering,1,460,690
+1,5.00,,Non-Engineering,1,470,640
+1,5.00,,Non-Engineering,1,520,600
+1,7.00,,Non-Engineering,1,520,620
+1,7.00,,Non-Engineering,1,520,620
+1,6.00,,Non-Engineering,1,550,710
+1,3.00,,Non-Engineering,1,560,630
+1,5.00,,Non-Engineering,1,580,590
+1,7.00,,Non-Engineering,1,700,760
+1,5.00,,Non-Engineering,2,560,610
+1,5.00,,Non-Engineering,2,590,720
+1,5.00,,Non-Engineering,1,360,600
+1,7.00,,Non-Engineering,1,360,650
+1,5.00,,Non-Engineering,1,480,640
+1,5.00,,Non-Engineering,1,540,610
+1,7.00,,Non-Engineering,2,370,750
+1,14.00,,Non-Engineering,2,460,520
+1,3.00,,Non-Engineering,2,520,670
+1,14.00,,Non-Engineering,2,530,560
+1,4.00,,Non-Engineering,1,280,700
+1,7.00,,Non-Engineering,1,410,780
+1,6.00,,Non-Engineering,1,460,730
+1,3.00,,Non-Engineering,1,470,730
+1,7.00,,Non-Engineering,1,520,660
+1,6.00,,Non-Engineering,1,530,650
+1,4.00,,Non-Engineering,1,530,760
+1,4.00,,Non-Engineering,1,570,600
+1,7.00,,Non-Engineering,1,570,600
+1,7.00,,Non-Engineering,1,570,660
+1,8.00,,Non-Engineering,1,620,620
+1,6.00,,Non-Engineering,1,620,690
+1,5.00,,Non-Engineering,1,710,800
+1,6.00,,Non-Engineering,2,410,670
+1,5.00,,Non-Engineering,2,450,780
+1,4.00,,Non-Engineering,2,460,630
+1,5.00,,Non-Engineering,2,480,720
+1,13.00,,Non-Engineering,2,490,580
+1,9.00,,Non-Engineering,2,510,680
+1,5.00,,Non-Engineering,2,550,640
+1,8.00,,Non-Engineering,2,570,710
+1,5.00,,Non-Engineering,2,590,760
+1,5.00,,Non-Engineering,2,650,710
+1,7.00,,Non-Engineering,2,660,690
+1,6.00,,Non-Engineering,2,680,710
+1,9.00,,Non-Engineering,1,280,680
+1,6.00,,Non-Engineering,1,330,740
+1,4.00,,Non-Engineering,1,460,670
+1,7.00,,Non-Engineering,1,550,750
+1,7.00,,Non-Engineering,1,550,750
+1,6.00,,Non-Engineering,1,580,790
+1,10.00,,Non-Engineering,1,660,730
+1,6.00,,Non-Engineering,2,330,640
+1,8.00,,Non-Engineering,2,410,700
+1,4.00,,Non-Engineering,2,500,770
+1,4.00,,Non-Engineering,2,530,750
+1,8.00,,Non-Engineering,2,570,510
+1,12.00,,Non-Engineering,2,620,780
+1,5.00,,Non-Engineering,2,750,790
+1,7.00,,Non-Engineering,1,510,490
+1,6.00,,Non-Engineering,1,650,610
+1,11.00,,Non-Engineering,1,470,660
+1,6.00,,Non-Engineering,1,500,710
+1,3.00,,Non-Engineering,1,530,720
+1,7.00,,Non-Engineering,1,720,700
+1,7.00,,Non-Engineering,2,470,570
+1,4.00,,Non-Engineering,2,470,650
+1,6.00,,Non-Engineering,2,490,630
+1,6.00,,Non-Engineering,2,520,590
+1,7.00,,Non-Engineering,2,530,740
+1,5.00,,Non-Engineering,2,680,780
+1,5.00,,Non-Engineering,2,480,770
+1,5.00,,Non-Engineering,2,550,530
+1,3.00,,Non-Engineering,2,500,740
+1,5.00,,Non-Engineering,1,510,790
+1,5.00,,Non-Engineering,1,560,780
+1,4.00,,Non-Engineering,2,700,800
+1,8.00,,Non-Engineering,1,580,800
+1,4.00,,Non-Engineering,1,590,790
+1,4.00,,Non-Engineering,1,640,800
+1,4.00,,Non-Engineering,1,670,800
+1,6.00,,Non-Engineering,1,710,800
+1,6.00,,Non-Engineering,1,580,660
+1,5.00,,Non-Engineering,1,580,790
+1,5.00,,Non-Engineering,1,640,800
+1,4.00,,Non-Engineering,2,300,800
+1,7.00,,Non-Engineering,2,490,800
+1,4.00,,Non-Engineering,2,520,780
+1,5.00,,Non-Engineering,2,550,800
+1,4.00,,Non-Engineering,2,550,800
+1,5.00,,Non-Engineering,2,560,800
+1,5.00,,Non-Engineering,2,560,800
+1,4.00,,Non-Engineering,2,590,800
+1,5.00,,Non-Engineering,2,610,750
+1,7.00,,Non-Engineering,2,610,800
+1,5.00,,Non-Engineering,2,620,780
+1,4.00,,Non-Engineering,2,650,800
+1,5.00,,Non-Engineering,2,650,800
+1,6.00,,Non-Engineering,2,650,800
+1,4.00,,Non-Engineering,2,660,800
+1,8.00,,Non-Engineering,2,660,800
+1,4.00,,Non-Engineering,2,680,800
+1,4.00,,Non-Engineering,2,680,800
+1,7.00,,Non-Engineering,2,690,800
+1,5.00,,Non-Engineering,2,700,800
+1,6.00,,Non-Engineering,2,720,800
+1,4.00,,Non-Engineering,2,730,800
+1,6.00,,Non-Engineering,2,800,790
+1,7.00,,Non-Engineering,2,440,800
+1,6.00,,Non-Engineering,2,460,700
+1,4.00,,Non-Engineering,2,520,720
+1,6.00,,Non-Engineering,2,520,770
+1,6.00,,Non-Engineering,2,520,780
+1,5.00,,Non-Engineering,2,550,780
+1,8.00,,Non-Engineering,2,740,720
+1,5.00,,Non-Engineering,1,550,650
+1,6.00,,Non-Engineering,2,550,760
+1,9.00,,Non-Engineering,2,680,750
+1,5.00,,Non-Engineering,1,560,720
+1,4.00,,Non-Engineering,1,560,790
+1,6.00,,Non-Engineering,1,590,640
+1,9.00,,Non-Engineering,2,400,720
+1,5.00,,Non-Engineering,2,690,790
+1,5.00,,Non-Engineering,1,430,570
+1,6.00,,Non-Engineering,1,480,640
+1,5.00,,Non-Engineering,1,560,670
+1,5.00,,Non-Engineering,1,570,560
+1,9.00,,Non-Engineering,1,600,620
+1,6.00,,Non-Engineering,1,630,710
+1,5.00,,Non-Engineering,2,440,440
+1,6.00,,Non-Engineering,2,680,670
+1,7.00,,Non-Engineering,1,310,560
+1,5.00,,Non-Engineering,1,360,510
+1,5.00,,Non-Engineering,1,360,800
+1,5.00,,Non-Engineering,1,450,630
+1,6.00,,Non-Engineering,1,450,680
+1,6.00,,Non-Engineering,1,460,770
+1,5.00,,Non-Engineering,1,500,600
+1,4.00,,Non-Engineering,1,540,540
+1,5.00,,Non-Engineering,1,550,700
+1,7.00,,Non-Engineering,1,630,660
+1,5.00,,Non-Engineering,1,660,630
+1,6.00,,Non-Engineering,1,670,690
+1,6.00,,Non-Engineering,1,800,800
+1,6.00,,Non-Engineering,2,310,730
+1,8.00,,Non-Engineering,2,330,650
+1,7.00,,Non-Engineering,2,440,730
+1,5.00,,Non-Engineering,2,450,680
+1,6.00,,Non-Engineering,2,490,620
+1,7.00,,Non-Engineering,2,490,680
+1,7.00,,Non-Engineering,2,500,780
+1,7.00,,Non-Engineering,2,520,580
+1,5.00,,Non-Engineering,2,530,730
+1,4.00,,Non-Engineering,2,540,690
+1,7.00,,Non-Engineering,2,610,780
+1,4.00,,Non-Engineering,2,640,700
+1,6.00,,Non-Engineering,2,640,710
+1,4.00,,Non-Engineering,2,710,690
+1,7.00,,Non-Engineering,1,410,710
+1,7.00,,Non-Engineering,1,500,590
+1,8.00,,Non-Engineering,1,610,610
+1,4.00,,Non-Engineering,2,430,460
+1,9.00,,Non-Engineering,1,370,640
+1,4.00,,Non-Engineering,1,550,740
+1,5.00,,Non-Engineering,1,560,600
+1,4.00,,Non-Engineering,1,610,580
+1,3.00,,Non-Engineering,1,620,630
+1,5.00,,Non-Engineering,2,460,650
+1,4.00,,Non-Engineering,2,480,610
+1,5.00,,Non-Engineering,2,560,610
+1,6.00,,Non-Engineering,2,560,680
+1,6.00,,Non-Engineering,2,560,730
+1,6.00,,Non-Engineering,2,620,620
+1,3.00,,Non-Engineering,2,640,650
+1,4.00,,Non-Engineering,2,650,730
+1,4.00,,Non-Engineering,2,650,750
+1,5.00,,Non-Engineering,2,710,770
+1,5.00,,Non-Engineering,2,720,630
+1,3.00,,Non-Engineering,2,720,660
+1,4.00,,Non-Engineering,2,740,720
+1,6.00,,Non-Engineering,2,740,800
+1,3.00,,Non-Engineering,2,800,800
+1,3.00,,Non-Engineering,1,330,570
+1,5.00,,Non-Engineering,1,400,800
+1,6.00,,Non-Engineering,1,420,710
+1,6.00,,Non-Engineering,1,530,600
+1,7.00,,Non-Engineering,1,560,590
+1,7.00,,Non-Engineering,1,560,590
+1,3.00,,Non-Engineering,1,560,630
+1,5.00,,Non-Engineering,1,580,620
+1,5.00,,Non-Engineering,1,620,570
+1,5.00,,Non-Engineering,1,620,750
+1,6.00,,Non-Engineering,2,440,710
+1,7.00,,Non-Engineering,2,500,640
+1,6.00,,Non-Engineering,2,550,740
+1,8.00,,Non-Engineering,1,270,470
+1,3.00,,Non-Engineering,1,480,660
+1,9.00,,Non-Engineering,1,490,640
+1,7.00,,Non-Engineering,1,510,630
+1,3.00,,Non-Engineering,1,540,660
+1,5.00,,Non-Engineering,1,630,610
+1,3.00,,Non-Engineering,1,720,650
+1,4.00,,Non-Engineering,1,800,790
+1,3.00,,Non-Engineering,2,510,740
+1,10.00,,Non-Engineering,2,580,560
+1,3.00,,Non-Engineering,2,610,800
+1,3.00,,Non-Engineering,2,690,550
+1,6.00,,Non-Engineering,1,390,570
+1,7.00,,Non-Engineering,1,460,560
+1,7.00,,Non-Engineering,1,520,650
+1,5.00,,Non-Engineering,1,580,730
+1,4.00,,Non-Engineering,1,600,730
+1,6.00,,Non-Engineering,2,480,740
+1,3.00,,Non-Engineering,2,530,630
+1,1.00,,Non-Engineering,2,550,480
+1,3.00,,Non-Engineering,2,580,630
+1,4.00,,Non-Engineering,2,600,500
+1,4.00,,Non-Engineering,2,610,660
+1,6.00,,Non-Engineering,2,470,500
+1,5.00,,Non-Engineering,1,540,670
+1,4.00,,Non-Engineering,2,620,650
+1,6.00,,Non-Engineering,1,440,610
+1,5.00,,Non-Engineering,1,530,700
+1,3.00,,Non-Engineering,1,570,640
+1,5.00,,Non-Engineering,1,610,660
+1,7.00,,Non-Engineering,1,630,680
+1,8.00,,Non-Engineering,2,510,650
+1,6.00,,Non-Engineering,2,540,720
+1,5.00,,Non-Engineering,1,360,700
+1,6.00,,Non-Engineering,1,480,640
+1,6.00,,Non-Engineering,1,560,620
+1,6.00,,Non-Engineering,1,590,800
+1,4.00,,Non-Engineering,1,610,720
+1,5.00,,Non-Engineering,2,460,510
+1,6.00,,Non-Engineering,2,470,660
+1,6.00,,Non-Engineering,2,490,800
+1,6.00,,Non-Engineering,2,510,730
+1,5.00,,Non-Engineering,2,530,700
+1,7.00,,Non-Engineering,2,550,650
+1,6.00,,Non-Engineering,2,590,700
+1,12.00,,Non-Engineering,2,670,720
+1,7.00,,Non-Engineering,1,330,800
+1,5.00,,Non-Engineering,1,440,710
+1,5.00,,Non-Engineering,2,490,800
+1,7.00,,Non-Engineering,1,440,800
+1,6.00,,Non-Engineering,1,480,700
+1,6.00,,Non-Engineering,1,600,780
+1,8.00,,Non-Engineering,2,350,750
+1,6.00,,Non-Engineering,2,360,780
+1,7.00,,Non-Engineering,2,390,740
+1,5.00,,Non-Engineering,2,470,770
+1,9.00,,Non-Engineering,2,490,600
+1,9.00,,Non-Engineering,2,490,740
+1,5.00,,Non-Engineering,2,500,740
+1,6.00,,Non-Engineering,2,510,720
+1,7.00,,Non-Engineering,2,550,800
+1,7.00,,Non-Engineering,2,560,770
+1,10.00,,Non-Engineering,2,630,780
+1,8.00,,Non-Engineering,2,630,780
+1,10.00,,Non-Engineering,2,670,680
+1,7.00,,Non-Engineering,2,680,800
+1,4.00,,Non-Engineering,2,720,790
+1,5.00,,Non-Engineering,1,320,790
+1,5.00,,Non-Engineering,1,350,650
+1,6.00,,Non-Engineering,1,400,640
+1,9.00,,Non-Engineering,1,470,600
+1,6.00,,Non-Engineering,1,560,780
+1,7.00,,Non-Engineering,1,590,640
+1,5.00,,Non-Engineering,1,600,760
+1,8.00,,Non-Engineering,1,600,770
+1,5.00,,Non-Engineering,1,630,770
+1,9.00,,Non-Engineering,1,650,770
+1,6.00,,Non-Engineering,2,330,740
+1,7.00,,Non-Engineering,2,480,710
+1,10.00,,Non-Engineering,2,480,760
+1,9.00,,Non-Engineering,2,520,800
+1,6.00,,Non-Engineering,1,380,560
+1,6.00,,Non-Engineering,1,450,720
+1,5.00,,Non-Engineering,1,540,720
+1,5.00,,Non-Engineering,2,400,710
+1,6.00,,Non-Engineering,2,520,630
+1,6.00,,Non-Engineering,1,300,720
+1,7.00,,Non-Engineering,1,570,800
+1,6.00,,Non-Engineering,1,720,800
+1,5.00,,Non-Engineering,2,300,730
+1,6.00,,Non-Engineering,2,380,730
+1,7.00,,Non-Engineering,2,440,790
+1,7.00,,Non-Engineering,2,440,790
+1,8.00,,Non-Engineering,2,490,630
+1,6.00,,Non-Engineering,2,500,630
+1,8.00,,Non-Engineering,2,530,770
+1,6.00,,Non-Engineering,2,560,750
+1,5.00,,Non-Engineering,2,590,730
+1,5.00,,Non-Engineering,2,600,700
+1,7.00,,Non-Engineering,2,600,780
+1,7.00,,Non-Engineering,2,600,800
+1,7.00,,Non-Engineering,2,600,800
+1,9.00,,Non-Engineering,2,630,680
+1,6.00,,Non-Engineering,2,640,760
+1,7.00,,Non-Engineering,2,640,800
+1,8.00,,Non-Engineering,2,720,780
+1,5.00,,Non-Engineering,1,550,780
+1,5.00,,Non-Engineering,1,590,770
+1,6.00,,Non-Engineering,1,640,760
+1,3.00,,Non-Engineering,1,660,730
+1,4.00,,Non-Engineering,2,290,780
+1,6.00,,Non-Engineering,2,300,770
+1,5.00,,Non-Engineering,2,390,790
+1,7.00,,Non-Engineering,2,430,700
+1,7.00,,Non-Engineering,2,490,790
+1,9.00,,Non-Engineering,2,500,730
+1,5.00,,Non-Engineering,2,630,690
+1,6.00,,Non-Engineering,2,640,760
+1,4.00,,Non-Engineering,2,660,790
+1,6.00,,Non-Engineering,1,690,760
+1,5.00,,Non-Engineering,1,330,570
+1,5.00,,Non-Engineering,1,560,630
+1,5.00,,Non-Engineering,1,570,680
+1,8.00,,Non-Engineering,1,580,620
+1,4.00,,Non-Engineering,1,580,700
+1,6.00,,Non-Engineering,1,620,570
+1,4.00,,Non-Engineering,1,640,700
+1,3.00,,Non-Engineering,2,590,700
+1,3.00,,Non-Engineering,1,470,580
+1,5.00,,Non-Engineering,2,540,490
+1,4.00,,Non-Engineering,1,500,620
+1,5.00,,Non-Engineering,1,590,670
+1,8.00,,Non-Engineering,1,590,750
+1,10.00,,Non-Engineering,1,690,600
+1,6.00,,Non-Engineering,2,320,550
+1,4.00,,Non-Engineering,2,420,200
+1,5.00,,Non-Engineering,2,470,490
+1,5.00,,Non-Engineering,2,480,630
+1,3.00,,Non-Engineering,2,490,680
+1,5.00,,Non-Engineering,2,500,700
+1,6.00,,Non-Engineering,2,520,710
+1,5.00,,Non-Engineering,2,590,780
+1,5.00,,Non-Engineering,2,590,780
+1,5.00,,Non-Engineering,2,640,570
+1,6.00,,Non-Engineering,2,710,800
+1,4.00,,Non-Engineering,1,390,550
+1,5.00,,Non-Engineering,1,600,660
+1,6.00,,Non-Engineering,2,320,570
+1,2.00,,Non-Engineering,2,500,500
+1,5.00,,Non-Engineering,1,340,770
+1,5.00,,Non-Engineering,1,550,800
+1,5.00,,Non-Engineering,2,610,800
+1,10.00,,Non-Engineering,1,410,590
+1,8.00,,Non-Engineering,1,430,750
+1,11.00,,Non-Engineering,1,440,620
+1,4.00,,Non-Engineering,1,490,540
+1,5.00,,Non-Engineering,1,510,480
+1,6.00,,Non-Engineering,1,540,580
+1,5.00,,Non-Engineering,1,560,710
+1,9.00,,Non-Engineering,1,570,520
+1,4.00,,Non-Engineering,1,580,570
+1,7.00,,Non-Engineering,1,590,610
+1,3.00,,Non-Engineering,1,630,530
+1,7.00,,Non-Engineering,2,320,770
+1,6.00,,Non-Engineering,2,510,550
+1,6.00,,Non-Engineering,2,510,550
+1,5.00,,Non-Engineering,2,550,540
+1,6.00,,Non-Engineering,1,510,630
+1,5.00,,Non-Engineering,1,520,550
+1,5.00,,Non-Engineering,1,540,650
+1,7.00,,Non-Engineering,2,430,410
+1,12.00,,Non-Engineering,2,430,530
+1,9.00,,Non-Engineering,2,450,500
+1,5.00,,Non-Engineering,2,530,700
+1,4.00,,Non-Engineering,2,540,730
+1,10.00,,Non-Engineering,2,590,660
+1,5.00,,Non-Engineering,2,620,760
+2, ,0,Engineering,1,420,780
+2, ,1,Engineering,1,460,710
+2, ,2,Engineering,1,530,670
+2, ,0,Engineering,1,570,720
+2, ,1,Engineering,1,570,790
+2, ,3,Engineering,1,640,760
+2, ,1,Engineering,2,470,730
+2, ,0,Engineering,2,540,750
+2, ,0,Engineering,2,550,740
+2, ,1,Engineering,2,570,760
+2, ,1,Engineering,2,610,800
+2, ,2,Engineering,1,470,680
+2, ,2,Engineering,1,500,730
+2, ,2,Engineering,1,550,710
+2, ,1,Engineering,1,570,560
+2, ,2,Engineering,1,580,750
+2, ,1,Engineering,1,710,780
+2, ,2,Engineering,2,490,790
+2, ,3,Engineering,2,500,770
+2, ,7,Engineering,2,500,710
+2, ,1,Engineering,2,520,710
+2, ,9,Engineering,1,550,780
+2, ,1,Engineering,1,600,720
+2, ,1,Engineering,2,420,770
+2, ,3,Engineering,2,670,720
+2, ,0,Engineering,1,640,760
+2, ,3,Engineering,1,390,770
+2, ,3,Engineering,1,390,770
+2, ,3,Engineering,1,500,770
+2, ,1,Engineering,1,700,770
+2, ,6,Engineering,1,700,800
+2, ,3,Engineering,2,300,790
+2, ,5,Engineering,2,360,710
+2, ,7,Engineering,2,400,720
+2, ,2,Engineering,2,450,740
+2, ,5,Engineering,2,460,750
+2, ,2,Engineering,2,470,800
+2, ,0,Engineering,2,490,670
+2, ,3,Engineering,2,510,690
+2, ,1,Engineering,2,520,790
+2, ,2,Engineering,2,520,740
+2, ,3,Engineering,2,520,720
+2, ,3,Engineering,2,560,800
+2, ,1,Engineering,2,660,780
+2, ,1,Engineering,2,660,780
+2, ,3,Engineering,2,660,790
+2, ,1,Engineering,2,350,710
+2, ,0,Engineering,2,550,680
+2, ,5,Engineering,2,570,800
+2, ,3,Engineering,1,330,660
+2, ,1,Engineering,1,370,620
+2, ,2,Engineering,1,430,590
+2, ,5,Engineering,1,440,630
+2, ,7,Engineering,1,440,670
+2, ,1,Engineering,1,450,540
+2, ,5,Engineering,1,450,750
+2, ,2,Engineering,1,510,680
+2, ,5,Engineering,1,530,750
+2, ,9,Engineering,1,540,650
+2, ,0,Engineering,1,550,750
+2, ,2,Engineering,1,570,690
+2, ,7,Engineering,1,570,760
+2, ,1,Engineering,1,590,800
+2, ,3,Engineering,1,600,650
+2, ,1,Engineering,1,620,670
+2, ,3,Engineering,1,630,740
+2, ,8,Engineering,1,640,770
+2, ,1,Engineering,2,370,690
+2, ,0,Engineering,2,420,650
+2, ,15,Engineering,2,450,590
+2, ,1,Engineering,2,460,720
+2, ,4,Engineering,2,460,770
+2, ,2,Engineering,2,470,780
+2, ,3,Engineering,2,500,700
+2, ,3,Engineering,2,500,800
+2, ,9,Engineering,2,510,790
+2, ,6,Engineering,2,520,680
+2, ,0,Engineering,2,530,730
+2, ,2,Engineering,2,530,670
+2, ,2,Engineering,2,540,740
+2, ,2,Engineering,2,550,700
+2, ,4,Engineering,2,550,800
+2, ,2,Engineering,2,560,740
+2, ,4,Engineering,2,560,710
+2, ,8,Engineering,2,560,750
+2, ,1,Engineering,2,570,760
+2, ,1,Engineering,2,570,790
+2, ,2,Engineering,2,570,770
+2, ,4,Engineering,2,570,730
+2, ,5,Engineering,2,570,780
+2, ,2,Engineering,2,580,690
+2, ,2,Engineering,2,590,790
+2, ,1,Engineering,2,600,770
+2, ,1,Engineering,2,600,800
+2, ,4,Engineering,2,600,660
+2, ,5,Engineering,2,640,790
+2, ,2,Engineering,2,650,770
+2, ,4,Engineering,2,660,800
+2, ,3,Engineering,2,680,650
+2, ,3,Engineering,2,710,680
+2, ,11,Engineering,2,720,750
+2, ,1,Engineering,1,320,770
+2, ,2,Engineering,1,450,720
+2, ,3,Engineering,2,300,740
+2, ,6,Engineering,2,540,800
+2, ,2,Engineering,1,300,550
+2, ,0,Engineering,1,500,610
+2, ,3,Engineering,1,750,650
+2, ,2,Engineering,2,270,670
+2, ,1,Engineering,2,340,650
+2, ,3,Engineering,2,340,720
+2, ,1,Engineering,2,400,750
+2, ,4,Engineering,2,460,740
+2, ,7,Engineering,2,490,740
+2, ,2,Engineering,2,500,720
+2, ,2,Engineering,2,500,720
+2, ,2,Engineering,2,560,690
+2, ,3,Engineering,1,510,720
+2, ,2,Engineering,1,560,770
+2, ,1,Engineering,2,320,760
+2, ,1,Engineering,2,330,800
+2, ,1,Engineering,2,340,780
+2, ,1,Engineering,2,380,710
+2, ,0,Engineering,2,440,670
+2, ,1,Engineering,2,470,740
+2, ,2,Engineering,2,480,760
+2, ,1,Engineering,2,530,800
+2, ,3,Engineering,2,530,780
+2, ,0,Engineering,2,610,800
+2, ,1,Engineering,2,740,760
+2, ,2,Engineering,2,460,680
+2, ,1,Engineering,2,560,770
+2, ,6,Engineering,2,600,770
+2, ,1,Engineering,2,670,800
+2, ,0,Non-Engineering,1,450,560
+2, ,3,Non-Engineering,2,600,690
+2, ,1,Non-Engineering,1,480,540
+2, ,2,Non-Engineering,2,470,620
+2, ,2,Non-Engineering,1,670,570
+2, ,1,Non-Engineering,1,610,670
+2, ,0,Non-Engineering,1,400,750
+2, ,3,Non-Engineering,1,430,740
+2, ,2,Non-Engineering,1,470,630
+2, ,0,Non-Engineering,1,480,630
+2, ,1,Non-Engineering,1,540,740
+2, ,0,Non-Engineering,1,550,710
+2, ,5,Non-Engineering,1,590,650
+2, ,3,Non-Engineering,2,410,630
+2, ,2,Non-Engineering,2,440,540
+2, ,0,Non-Engineering,2,640,650
+2, ,5,Non-Engineering,1,620,710
+2, ,1,Non-Engineering,1,410,490
+2, ,5,Non-Engineering,1,410,570
+2, ,0,Non-Engineering,1,420,590
+2, ,2,Non-Engineering,1,420,540
+2, ,10,Non-Engineering,1,420,660
+2, ,2,Non-Engineering,1,440,490
+2, ,3,Non-Engineering,1,440,680
+2, ,4,Non-Engineering,1,450,580
+2, ,6,Non-Engineering,1,460,560
+2, ,2,Non-Engineering,1,480,430
+2, ,2,Non-Engineering,1,480,580
+2, ,3,Non-Engineering,1,480,470
+2, ,9,Non-Engineering,1,480,680
+2, ,0,Non-Engineering,1,490,610
+2, ,2,Non-Engineering,1,490,610
+2, ,3,Non-Engineering,1,490,650
+2, ,9,Non-Engineering,1,510,760
+2, ,0,Non-Engineering,1,530,690
+2, ,2,Non-Engineering,1,530,650
+2, ,5,Non-Engineering,1,530,640
+2, ,0,Non-Engineering,1,540,550
+2, ,2,Non-Engineering,1,540,660
+2, ,4,Non-Engineering,1,550,610
+2, ,8,Non-Engineering,1,550,680
+2, ,2,Non-Engineering,1,560,710
+2, ,0,Non-Engineering,1,570,640
+2, ,1,Non-Engineering,1,570,690
+2, ,2,Non-Engineering,1,570,700
+2, ,3,Non-Engineering,1,570,740
+2, ,3,Non-Engineering,1,580,620
+2, ,1,Non-Engineering,1,590,600
+2, ,2,Non-Engineering,1,590,670
+2, ,1,Non-Engineering,1,600,580
+2, ,1,Non-Engineering,1,610,770
+2, ,3,Non-Engineering,1,620,650
+2, ,3,Non-Engineering,1,630,670
+2, ,0,Non-Engineering,1,640,740
+2, ,4,Non-Engineering,1,650,630
+2, ,2,Non-Engineering,1,660,730
+2, ,0,Non-Engineering,1,670,800
+2, ,2,Non-Engineering,1,670,580
+2, ,2,Non-Engineering,1,670,750
+2, ,3,Non-Engineering,1,670,700
+2, ,1,Non-Engineering,1,690,630
+2, ,2,Non-Engineering,1,690,660
+2, ,8,Non-Engineering,1,690,650
+2, ,3,Non-Engineering,1,700,670
+2, ,5,Non-Engineering,1,710,650
+2, ,2,Non-Engineering,1,720,700
+2, ,15,Non-Engineering,1,750,700
+2, ,0,Non-Engineering,2,300,400
+2, ,5,Non-Engineering,2,380,520
+2, ,4,Non-Engineering,2,400,700
+2, ,4,Non-Engineering,2,430,630
+2, ,4,Non-Engineering,2,430,700
+2, ,0,Non-Engineering,2,470,550
+2, ,1,Non-Engineering,2,470,610
+2, ,1,Non-Engineering,2,470,710
+2, ,2,Non-Engineering,2,490,540
+2, ,3,Non-Engineering,2,500,620
+2, ,5,Non-Engineering,2,500,640
+2, ,0,Non-Engineering,2,520,610
+2, ,1,Non-Engineering,2,530,740
+2, ,3,Non-Engineering,2,530,650
+2, ,2,Non-Engineering,2,540,720
+2, ,5,Non-Engineering,2,550,620
+2, ,2,Non-Engineering,2,570,630
+2, ,4,Non-Engineering,2,570,500
+2, ,0,Non-Engineering,2,590,700
+2, ,2,Non-Engineering,2,590,640
+2, ,2,Non-Engineering,2,590,770
+2, ,10,Non-Engineering,2,590,750
+2, ,5,Non-Engineering,2,610,590
+2, ,6,Non-Engineering,2,610,590
+2, ,2,Non-Engineering,2,630,670
+2, ,3,Non-Engineering,2,630,670
+2, ,4,Non-Engineering,2,660,620
+2, ,2,Non-Engineering,2,710,740
+2, ,0,Non-Engineering,2,740,700
+2, ,1,Non-Engineering,2,790,690
+2, ,3,Non-Engineering,1,420,600
+2, ,2,Non-Engineering,1,620,720
+2, ,3,Non-Engineering,1,750,730
+2, ,4,Non-Engineering,2,390,540
+2, ,1,Non-Engineering,2,480,630
+2, ,2,Non-Engineering,2,520,640
+2, ,1,Non-Engineering,2,560,770
+2, ,1,Non-Engineering,2,570,680
+2, ,3,Non-Engineering,2,580,640
+2, ,1,Non-Engineering,1,440,690
+2, ,0,Non-Engineering,1,620,690
+2, ,4,Non-Engineering,1,670,670
+2, ,3,Non-Engineering,1,740,800
+2, ,2,Non-Engineering,1,360,580
+2, ,0,Non-Engineering,1,400,460
+2, ,6,Non-Engineering,1,400,580
+2, ,0,Non-Engineering,1,560,720
+2, ,3,Non-Engineering,1,570,730
+2, ,0,Non-Engineering,1,620,620
+2, ,4,Non-Engineering,1,400,520
+2, ,1,Non-Engineering,1,530,620
+2, ,1,Non-Engineering,1,600,600
+2, ,1,Non-Engineering,1,610,600
+2, ,2,Non-Engineering,2,420,680
+2, ,4,Non-Engineering,2,450,680
+2, ,3,Non-Engineering,2,490,540
+2, ,4,Non-Engineering,2,500,690
+2, ,2,Non-Engineering,2,510,720
+2, ,3,Non-Engineering,2,560,760
+2, ,1,Non-Engineering,2,570,530
+2, ,3,Non-Engineering,2,580,730
+2, ,1,Non-Engineering,2,600,670
+2, ,5,Non-Engineering,2,710,690
+2, ,4,Non-Engineering,2,750,780
+2, ,0,Non-Engineering,1,390,650
+2, ,0,Non-Engineering,1,480,640
+2, ,5,Non-Engineering,1,480,640
+2, ,4,Non-Engineering,1,540,740
+2, ,1,Non-Engineering,1,560,720
+2, ,4,Non-Engineering,2,350,730
+2, ,0,Non-Engineering,2,610,760
+2, ,1,Non-Engineering,1,350,630
+2, ,2,Non-Engineering,1,370,570
+2, ,3,Non-Engineering,1,410,650
+2, ,3,Non-Engineering,1,460,710
+2, ,3,Non-Engineering,1,500,670
+2, ,2,Non-Engineering,1,520,690
+2, ,3,Non-Engineering,1,550,750
+2, ,1,Non-Engineering,1,290,730
+2, ,3,Non-Engineering,1,390,680
+2, ,1,Non-Engineering,1,480,640
+2, ,1,Non-Engineering,1,550,720
+2, ,3,Non-Engineering,1,550,560
+2, ,1,Non-Engineering,1,570,660
+2, ,2,Non-Engineering,1,580,560
+2, ,3,Non-Engineering,1,590,740
+2, ,0,Non-Engineering,2,470,710
+2, ,3,Non-Engineering,2,500,660
+2, ,0,Non-Engineering,2,510,530
+2, ,0,Non-Engineering,2,560,780
+2, ,3,Non-Engineering,2,590,750
+2, ,3,Non-Engineering,2,610,700
+2, ,1,Non-Engineering,2,300,510
+2, ,0,Non-Engineering,2,400,430
+2, ,6,Non-Engineering,2,470,550
+2, ,2,Non-Engineering,2,480,610
+2, ,1,Non-Engineering,2,530,680
+2, ,0,Non-Engineering,2,540,660
+2, ,0,Non-Engineering,2,710,780
+2, ,3,Non-Engineering,2,710,790
+2, ,0,Non-Engineering,1,380,520
+2, ,0,Non-Engineering,1,410,510
+2, ,0,Non-Engineering,1,410,750
+2, ,3,Non-Engineering,1,420,590
+2, ,5,Non-Engineering,1,430,590
+2, ,2,Non-Engineering,1,450,530
+2, ,0,Non-Engineering,1,480,640
+2, ,0,Non-Engineering,1,490,640
+2, ,2,Non-Engineering,1,500,570
+2, ,3,Non-Engineering,1,500,780
+2, ,0,Non-Engineering,1,570,700
+2, ,0,Non-Engineering,1,570,730
+2, ,5,Non-Engineering,1,620,700
+2, ,6,Non-Engineering,1,630,740
+2, ,0,Non-Engineering,1,650,690
+2, ,0,Non-Engineering,2,370,720
+2, ,0,Non-Engineering,2,370,720
+2, ,1,Non-Engineering,2,410,740
+2, ,7,Non-Engineering,2,430,630
+2, ,2,Non-Engineering,2,440,610
+2, ,4,Non-Engineering,2,440,740
+2, ,2,Non-Engineering,2,460,670
+2, ,3,Non-Engineering,2,480,660
+2, ,0,Non-Engineering,2,490,700
+2, ,3,Non-Engineering,2,500,690
+2, ,0,Non-Engineering,2,520,790
+2, ,2,Non-Engineering,2,560,800
+2, ,2,Non-Engineering,2,590,700
+2, ,4,Non-Engineering,2,600,800
+2, ,1,Non-Engineering,2,640,640
+2, ,1,Non-Engineering,2,640,730
+2, ,3,Non-Engineering,2,710,770
+2, ,1,Non-Engineering,1,370,500
+2, ,0,Non-Engineering,2,590,800
+2, ,1,Non-Engineering,2,590,700
+2, ,2,Non-Engineering,1,600,750
+2, ,1,Non-Engineering,2,430,720
+2, ,3,Non-Engineering,2,540,770
+2, ,5,Non-Engineering,2,540,780
+2, ,1,Non-Engineering,2,550,700
+2, ,0,Non-Engineering,2,560,800
+2, ,5,Non-Engineering,2,560,790
+2, ,0,Non-Engineering,2,580,620
+2, ,1,Non-Engineering,2,700,720
+2, ,3,Non-Engineering,2,790,800
+2, ,2,Non-Engineering,1,350,740
+2, ,4,Non-Engineering,1,370,800
+2, ,3,Non-Engineering,1,380,750
+2, ,2,Non-Engineering,1,560,780
+2, ,1,Non-Engineering,1,570,800
+2, ,4,Non-Engineering,1,720,790
+2, ,2,Non-Engineering,1,790,750
+2, ,3,Non-Engineering,2,380,660
+2, ,2,Non-Engineering,2,420,710
+2, ,2,Non-Engineering,2,460,770
+2, ,7,Non-Engineering,2,490,730
+2, ,0,Non-Engineering,2,500,780
+2, ,1,Non-Engineering,2,500,800
+2, ,5,Non-Engineering,2,510,790
+2, ,2,Non-Engineering,2,570,680
+2, ,0,Non-Engineering,2,600,710
+2, ,1,Non-Engineering,2,600,710
+2, ,2,Non-Engineering,2,630,800
+2, ,4,Non-Engineering,2,650,770
+2, ,0,Non-Engineering,2,660,800
+2, ,5,Non-Engineering,2,660,800
+2, ,7,Non-Engineering,2,660,790
+2, ,2,Non-Engineering,2,680,760
+2, ,0,Non-Engineering,2,730,800
+2, ,1,Non-Engineering,2,730,700
+2, ,12,Non-Engineering,2,740,800
+2, ,2,Non-Engineering,2,750,800
+2, ,1,Non-Engineering,1,420,720
+2, ,3,Non-Engineering,1,560,800
+2, ,9,Non-Engineering,1,560,800
+2, ,2,Non-Engineering,1,570,800
+2, ,3,Non-Engineering,1,570,750
+2, ,4,Non-Engineering,1,570,780
+2, ,1,Non-Engineering,1,640,740
+2, ,4,Non-Engineering,1,640,760
+2, ,4,Non-Engineering,1,650,790
+2, ,1,Non-Engineering,1,680,680
+2, ,3,Non-Engineering,2,460,730
+2, ,4,Non-Engineering,2,460,760
+2, ,4,Non-Engineering,2,490,710
+2, ,4,Non-Engineering,2,500,750
+2, ,1,Non-Engineering,2,530,790
+2, ,2,Non-Engineering,2,550,720
+2, ,5,Non-Engineering,2,560,720
+2, ,6,Non-Engineering,2,570,790
+2, ,3,Non-Engineering,2,580,730
+2, ,4,Non-Engineering,2,590,800
+2, ,2,Non-Engineering,2,600,770
+2, ,1,Non-Engineering,2,610,800
+2, ,3,Non-Engineering,2,610,690
+2, ,3,Non-Engineering,2,610,710
+2, ,3,Non-Engineering,2,610,760
+2, ,3,Non-Engineering,2,610,800
+2, ,4,Non-Engineering,2,610,790
+2, ,2,Non-Engineering,2,620,750
+2, ,9,Non-Engineering,2,620,800
+2, ,1,Non-Engineering,2,630,800
+2, ,5,Non-Engineering,2,630,800
+2, ,4,Non-Engineering,2,640,800
+2, ,2,Non-Engineering,2,650,730
+2, ,14,Non-Engineering,2,650,780
+2, ,1,Non-Engineering,2,660,790
+2, ,4,Non-Engineering,2,660,730
+2, ,2,Non-Engineering,2,670,800
+2, ,9,Non-Engineering,2,670,780
+2, ,1,Non-Engineering,2,680,780
+2, ,3,Non-Engineering,2,680,800
+2, ,2,Non-Engineering,2,690,720
+2, ,3,Non-Engineering,2,710,790
+2, ,9,Non-Engineering,2,730,760
+2, ,12,Non-Engineering,2,730,760
+2, ,2,Non-Engineering,2,740,790
+2, ,5,Non-Engineering,2,740,800
+2, ,3,Non-Engineering,2,750,750
+2, ,8,Non-Engineering,2,750,790
+2, ,4,Non-Engineering,2,800,660
+2, ,10,Non-Engineering,1,450,450
+2, ,4,Non-Engineering,1,590,700
+2, ,5,Non-Engineering,1,590,620
+2, ,2,Non-Engineering,1,670,530
+2, ,12,Non-Engineering,1,670,690
+2, ,7,Non-Engineering,1,720,720
+2, ,5,Non-Engineering,2,570,670
+2, ,9,Non-Engineering,2,650,750
+2, ,8,Non-Engineering,2,680,770
+2, ,1,Non-Engineering,1,460,610
+2, ,7,Non-Engineering,1,500,670
+2, ,7,Non-Engineering,1,500,670
+2, ,1,Non-Engineering,1,510,720
+2, ,5,Non-Engineering,1,530,580
+2, ,0,Non-Engineering,1,540,650
+2, ,3,Non-Engineering,1,550,600
+2, ,2,Non-Engineering,1,570,750
+2, ,3,Non-Engineering,1,580,530
+2, ,7,Non-Engineering,1,580,640
+2, ,7,Non-Engineering,1,580,650
+2, ,4,Non-Engineering,1,590,550
+2, ,7,Non-Engineering,1,610,610
+2, ,1,Non-Engineering,1,630,630
+2, ,0,Non-Engineering,1,640,700
+2, ,4,Non-Engineering,1,670,670
+2, ,7,Non-Engineering,2,480,660
+2, ,0,Non-Engineering,2,540,680
+2, ,5,Non-Engineering,2,560,720
+2, ,2,Non-Engineering,2,640,780
+2, ,4,Non-Engineering,2,710,660
+2, ,1,Non-Engineering,2,730,740
+2, ,1,Non-Engineering,2,740,660
+2, ,1,Non-Engineering,1,400,610
+2, ,2,Non-Engineering,1,510,530
+2, ,6,Non-Engineering,2,510,660
+2, ,0,Non-Engineering,2,550,700
+2, ,12,Non-Engineering,1,500,620
+2, ,2,Non-Engineering,1,700,700
+2, ,1,Non-Engineering,2,450,680
+2, ,1,Non-Engineering,1,460,760
+2, ,3,Non-Engineering,1,530,610
+2, ,13,Non-Engineering,1,570,640
+2, ,13,Non-Engineering,1,570,640
+2, ,3,Non-Engineering,1,610,670
+2, ,5,Non-Engineering,1,690,730
+2, ,4,Non-Engineering,2,450,660
+2, ,5,Non-Engineering,2,460,660
+2, ,6,Non-Engineering,2,510,640
+2, ,0,Non-Engineering,2,580,730
+2, ,4,Non-Engineering,2,740,650
+2, ,3,Non-Engineering,1,280,290
+2, ,5,Non-Engineering,1,310,540
+2, ,3,Non-Engineering,1,320,790
+2, ,5,Non-Engineering,1,320,740
+2, ,3,Non-Engineering,1,330,590
+2, ,4,Non-Engineering,1,340,620
+2, ,2,Non-Engineering,1,370,710
+2, ,2,Non-Engineering,1,380,620
+2, ,1,Non-Engineering,1,440,650
+2, ,2,Non-Engineering,1,440,700
+2, ,2,Non-Engineering,1,450,550
+2, ,2,Non-Engineering,1,550,750
+2, ,3,Non-Engineering,1,580,510
+2, ,5,Non-Engineering,1,600,710
+2, ,8,Non-Engineering,1,610,760
+2, ,4,Non-Engineering,1,620,600
+2, ,5,Non-Engineering,1,620,660
+2, ,2,Non-Engineering,1,680,740
+2, ,6,Non-Engineering,1,730,790
+2, ,4,Non-Engineering,1,760,770
+2, ,2,Non-Engineering,2,390,680
+2, ,2,Non-Engineering,2,410,620
+2, ,11,Non-Engineering,2,510,590
+2, ,1,Non-Engineering,2,630,710
+2, ,5,Non-Engineering,2,640,670
+2, ,10,Non-Engineering,2,600,640
+2, ,11,Non-Engineering,1,310,680
+2, ,3,Non-Engineering,1,500,660
+2, ,2,Non-Engineering,2,360,640
+2, ,6,Non-Engineering,2,520,550
+2, ,6,Non-Engineering,2,520,770
+2, ,1,Non-Engineering,2,580,760
+2, ,1,Non-Engineering,2,640,770
+2, ,1,Non-Engineering,2,720,780
+2, ,1,Non-Engineering,2,720,780
+2, ,2,Non-Engineering,2,540,740
+2, ,3,Non-Engineering,2,630,720
+2, ,3,Non-Engineering,1,470,640
+2, ,0,Non-Engineering,2,460,670
+2, ,4,Non-Engineering,1,590,800
+2, ,2,Non-Engineering,1,760,800
+2, ,1,Non-Engineering,1,580,610
+2, ,3,Non-Engineering,2,470,800
+2, ,0,Non-Engineering,2,480,800
+2, ,2,Non-Engineering,2,490,720
+2, ,1,Non-Engineering,2,550,800
+2, ,1,Non-Engineering,2,610,800
+2, ,1,Non-Engineering,2,620,800
+2, ,0,Non-Engineering,2,650,800
+2, ,0,Non-Engineering,2,670,800
+2, ,9,Non-Engineering,2,700,800
+2, ,0,Non-Engineering,2,750,800
+2, ,2,Non-Engineering,2,310,750
+2, ,2,Non-Engineering,2,370,730
+2, ,2,Non-Engineering,2,440,760
+2, ,3,Non-Engineering,2,460,730
+2, ,2,Non-Engineering,2,510,800
+2, ,3,Non-Engineering,2,510,740
+2, ,2,Non-Engineering,2,540,780
+2, ,4,Non-Engineering,2,550,700
+2, ,5,Non-Engineering,2,610,750
+2, ,3,Non-Engineering,2,630,780
+2, ,8,Non-Engineering,2,700,790
+2, ,2,Non-Engineering,2,750,800
+2, , ,Non-Engineering,2,590,800
+2, ,3,Non-Engineering,2,730,790
+2, ,7,Non-Engineering,2,570,760
+2, ,3,Non-Engineering,1,460,460
+2, ,3,Non-Engineering,2,310,680
+2, ,0,Non-Engineering,2,450,630
+2, ,1,Non-Engineering,2,530,740
+2, ,1,Non-Engineering,2,540,760
+2, ,1,Non-Engineering,1,340,600
+2, ,1,Non-Engineering,1,430,630
+2, ,0,Non-Engineering,1,450,450
+2, ,4,Non-Engineering,1,470,600
+2, ,0,Non-Engineering,1,480,600
+2, ,0,Non-Engineering,1,560,550
+2, ,3,Non-Engineering,2,470,700
+2, ,3,Non-Engineering,2,490,670
+2, ,0,Non-Engineering,1,280,730
+2, ,0,Non-Engineering,1,340,640
+2, ,6,Non-Engineering,1,430,740
+2, ,7,Non-Engineering,1,440,570
+2, ,0,Non-Engineering,1,470,770
+2, ,1,Non-Engineering,1,480,630
+2, ,1,Non-Engineering,1,480,640
+2, ,0,Non-Engineering,1,490,630
+2, ,1,Non-Engineering,1,530,620
+2, ,1,Non-Engineering,1,540,740
+2, ,0,Non-Engineering,1,560,690
+2, ,0,Non-Engineering,1,560,710
+2, ,1,Non-Engineering,1,570,730
+2, ,0,Non-Engineering,1,710,690
+2, ,4,Non-Engineering,1,750,790
+2, ,4,Non-Engineering,2,320,660
+2, ,5,Non-Engineering,2,330,510
+2, ,1,Non-Engineering,2,350,730
+2, ,0,Non-Engineering,2,380,680
+2, ,3,Non-Engineering,2,440,780
+2, ,2,Non-Engineering,2,580,670
+2, ,7,Non-Engineering,2,650,690
+2, ,2,Non-Engineering,2,690,620
+2, ,2,Non-Engineering,2,750,540
+2, ,1,Non-Engineering,1,410,740
+2, ,6,Non-Engineering,1,450,670
+2, ,0,Non-Engineering,1,660,610
+2, ,1,Non-Engineering,2,590,650
+2, ,1,Non-Engineering,1,510,590
+2, , ,Non-Engineering,2,530,760
+2, ,7,Non-Engineering,2,600,690
+2, ,1,Non-Engineering,1,510,420
+2, ,7,Non-Engineering,2,440,630
+2, ,1,Non-Engineering,1,480,440
+2, ,0,Non-Engineering,1,500,620
+2, ,1,Non-Engineering,1,510,590
+2, ,3,Non-Engineering,1,510,560
+2, ,2,Non-Engineering,1,550,750
+2, ,4,Non-Engineering,1,690,780
+2, ,2,Non-Engineering,1,760,760
+2, ,2,Non-Engineering,1,570,690
+2, ,3,Non-Engineering,1,600,760
+2, ,3,Non-Engineering,1,680,730
+2, ,1,Non-Engineering,1,700,800
+2, ,1,Non-Engineering,1,700,800
+2, ,5,Non-Engineering,1,270,800
+2, ,4,Non-Engineering,1,590,650
+2, ,3,Non-Engineering,2,410,750
+2, ,0,Non-Engineering,2,440,710
+2, ,5,Non-Engineering,2,500,670
+2, ,0,Non-Engineering,2,590,800
+2, ,1,Non-Engineering,2,600,730
+2, ,3,Non-Engineering,2,660,770
+2, ,0,Non-Engineering,1,460,590
+2, ,2,Non-Engineering,1,540,730
+2, ,3,Non-Engineering,1,550,660
+2, ,1,Non-Engineering,1,570,760
+2, ,1,Non-Engineering,1,580,720
+2, ,0,Non-Engineering,1,620,800
+2, ,2,Non-Engineering,1,620,660
+2, ,2,Non-Engineering,1,620,790
+2, ,4,Non-Engineering,1,680,780
+2, ,12,Non-Engineering,2,300,680
+2, ,2,Non-Engineering,2,380,720
+2, ,9,Non-Engineering,2,450,730
+2, ,2,Non-Engineering,2,500,760
+2, ,2,Non-Engineering,2,530,780
+2, ,5,Non-Engineering,2,550,760
+2, ,1,Non-Engineering,2,580,740
+2, ,2,Non-Engineering,2,580,750
+2, ,2,Non-Engineering,2,580,800
+2, ,1,Non-Engineering,2,610,780
+2, ,3,Non-Engineering,2,610,780
+2, ,0,Non-Engineering,2,630,750
+2, ,2,Non-Engineering,2,630,690
+2, ,2,Non-Engineering,2,630,790
+2, ,2,Non-Engineering,2,660,770
+2, ,1,Non-Engineering,2,680,610
+2, ,2,Non-Engineering,2,710,690
+2, ,3,Non-Engineering,1,340,660
+2, ,5,Non-Engineering,1,360,630
+2, ,1,Non-Engineering,1,460,460
+2, ,8,Non-Engineering,1,480,780
+2, ,0,Non-Engineering,1,600,650
+2, ,9,Non-Engineering,1,620,590
+2, ,3,Non-Engineering,2,450,600
+2, ,0,Non-Engineering,2,490,760
+2, ,7,Non-Engineering,2,530,740
+2, ,1,Non-Engineering,2,540,760
+2, ,4,Non-Engineering,2,590,680
+2, ,3,Non-Engineering,1,420,510
+2, ,4,Non-Engineering,1,520,660
+2, ,3,Non-Engineering,1,600,540
+2, ,3,Non-Engineering,2,460,740
+2, ,1,Non-Engineering,1,430,680
+2, ,1,Non-Engineering,1,520,600
+2, ,7,Non-Engineering,2,360,800
+2, ,1,Non-Engineering,2,420,750
+2, ,1,Non-Engineering,2,460,800
+2, ,1,Non-Engineering,2,480,700
+2, ,0,Non-Engineering,2,530,800
+2, ,1,Non-Engineering,2,530,760
+2, ,1,Non-Engineering,2,540,800
+2, ,1,Non-Engineering,2,560,750
+2, ,3,Non-Engineering,2,590,770
+2, ,1,Non-Engineering,2,600,790
+2, ,7,Non-Engineering,2,600,780
+2, ,2,Non-Engineering,2,640,780
+2, ,3,Non-Engineering,2,650,800
+2, ,0,Non-Engineering,2,670,800
+2, ,2,Non-Engineering,2,670,800
+2, ,3,Non-Engineering,2,670,800
+2, ,2,Non-Engineering,2,730,780
+2, ,2,Non-Engineering,2,740,780
+2, ,2,Non-Engineering,2,740,780
+2, ,2,Non-Engineering,2,740,780
+2, ,2,Non-Engineering,1,470,720
+2, ,1,Non-Engineering,1,570,630
+2, ,3,Non-Engineering,1,620,700
+2, ,3,Non-Engineering,2,500,690
+2, ,1,Non-Engineering,2,510,730
+2, ,1,Non-Engineering,2,600,640
+2, ,1,Non-Engineering,2,660,760
+2, ,1,Non-Engineering,1,540,700
+2, ,1,Non-Engineering,2,600,700
+2, ,4,Non-Engineering,1,510,590
+2, ,0,Non-Engineering,1,520,690
+2, ,0,Non-Engineering,1,530,670
+2, ,5,Non-Engineering,1,530,620
+2, ,3,Non-Engineering,2,540,570
+2, ,0,Non-Engineering,1,350,600
+2, ,3,Non-Engineering,1,400,690
+2, ,4,Non-Engineering,1,460,670
+2, ,3,Non-Engineering,1,560,650
+2, ,0,Non-Engineering,1,630,670
+2, ,3,Non-Engineering,2,440,720
+2, ,1,Non-Engineering,1,480,540
+2, ,4,Non-Engineering,1,540,700
+2, ,8,Non-Engineering,1,640,800
+2, ,2,Non-Engineering,2,340,780
+2, ,1,Non-Engineering,2,460,760
+2, ,2,Non-Engineering,2,490,760
+2, ,2,Non-Engineering,2,620,800
+2, ,1,Non-Engineering,2,670,800
+2, ,0,Non-Engineering,1,380,610
+2, ,1,Non-Engineering,1,440,710
+2, ,5,Non-Engineering,1,600,560
+2, ,5,Non-Engineering,1,600,560
+2, ,5,Non-Engineering,2,450,710
+2, ,0,Non-Engineering,2,490,710
+2, ,2,Non-Engineering,2,530,650

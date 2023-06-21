@@ -1,0 +1,43 @@
+---
+title: "How to find data and also do some gardening?"
+author: "Bolun Zhang"
+date: "4/12/2021"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## The Crux
+
+Research design is more important than your model!
+
+## Data, where you can find it?
+
+- Use replication data or data used by previous research
+  + https://dataverse.harvard.edu/
+
+- Find your data through variables.
+  + https://www.icpsr.umich.edu/web/pages/
+
+- Let's find it in GSS and other. 
+  + https://gss.norc.org/
+  
+## Starting your first line of code
+
+Like writing a paper, starting your first line of coding is important
+
+* Having a outline of your code - procedural programming. 
+
+## Let's do some gardening!
+
+let's lm(y~x)! 
+
+## There is not much difference between R and stata
+
+* They are just software, choose whatever fits your needs. 
+
+* It's statistics after all.
+
+
